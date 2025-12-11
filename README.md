@@ -24,10 +24,9 @@ _Add your project links here later_
 
 ---
 
-## 📊 GitHub Insights
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=S-Q-Ali&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=S-Q-Ali&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Q-Ali&theme=tokyonight" />
 </p>
 
 ---
