@@ -15,15 +15,6 @@
 
 ---
 
-## 🚀 Featured Work  
-_Add your project links here later_
-
-**Project Name** — Short description  
-**Tech:** React • Node.js  
-[Repo](#) | [Live](#)
-
----
-
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=S-Q-Ali&show_icons=true&theme=tokyonight" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Q-Ali&theme=tokyonight" />
@@ -36,10 +27,5 @@ _Add your project links here later_
   <b>"Turning ideas into polished, functional, and intuitive user experiences."</b>
 </p>
 
----
-
-## 📫 Contact  
-**Email:** your.email@example.com  
-**LinkedIn:** your-linkedin-url
 
 <p align="center">⭐ If you like my work, consider starring a repo!</p>
