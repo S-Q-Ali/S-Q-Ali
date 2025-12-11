@@ -1,551 +1,268 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Syed Qasim Ali - Solo Leveling Profile</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+<div align="center">
+
+<!-- Animated Title Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SUNG%20QASIM%20ALI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Shadow%20Monarch%20of%20Frontend%20Development&descAlignY=51&descAlign=50"/>
+
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=ARISE!+Frontend+Developer;Associate+Software+Developer;Leveling+Up+One+Commit+at+a+Time;From+E-Rank+to+SSS-Rank+Developer)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚔️ **CURRENT LEVEL: ASSOCIATE SOFTWARE DEVELOPER** ⚔️
+
+</div>
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║   "𝐉𝐮𝐬𝐭 𝐚𝐬 𝐭𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐌𝐨𝐧𝐚𝐫𝐜𝐡 𝐥𝐞𝐯𝐞𝐥𝐬 𝐮𝐩..."                          ║
+║   "𝐒𝐨 𝐝𝐨𝐞𝐬 𝐦𝐲 𝐜𝐨𝐝𝐞."                                                  ║
+║                                                    - Syed Qasim Ali   ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+## 🏆 **HUNTER'S STATS** 🏆
+
+<img src="https://github-profile-trophy.vercel.app/?username=s-q-ali&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Trophy Stats"/>
+
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 📊 **SYSTEM WINDOW: GITHUB STATS**
+
+<img src="https://github-readme-stats.vercel.app/api?username=s-q-ali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=F72585&text_color=FFFFFF&ring_color=7209B7&fire_color=F72585&include_all_commits=true&count_private=true" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-q-ali&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=F72585&fire=F72585&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=F72585&sideNums=7209B7&dates=FFFFFFAA" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+### 🗡️ **SKILL INVENTORY**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-q-ali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&langs_count=8&exclude_repo=github-readme-stats&card_width=400" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s-q-ali&theme=radical&utcOffset=5" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ⚡ **HUNTER'S ABILITIES** ⚡
+
+### 『 LEGENDARY SKILLS 』
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript"/><br/>
+<sub><b>JavaScript</b></sub><br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React"/><br/>
+<sub><b>React</b></sub><br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/><br/>
+<sub><b>Node.js</b></sub><br/>
+<sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/><br/>
+<sub><b>HTML5</b></sub><br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/><br/>
+<sub><b>CSS3</b></sub><br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind"/><br/>
+<sub><b>Tailwind</b></sub><br/>
+<sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/><br/>
+<sub><b>Git</b></sub><br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/><br/>
+<sub><b>GitHub</b></sub><br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br/>
+<sub><b>VS Code</b></sub><br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase"/><br/>
+<sub><b>Firebase</b></sub><br/>
+<sub>⭐⭐⭐⭐</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌟 **QUEST LOG: ACTIVITY GRAPH** 🌟
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s-q-ali&theme=high-contrast&bg_color=0D1117&color=9D4EDD&line=F72585&point=FFFFFF&area=true&hide_border=true&custom_title=Shadow%20Monarch's%20Journey)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **DUNGEON RAIDS: CURRENT MISSIONS** 🎯
+
+```javascript
+const shadowMonarch = {
+    name: "Syed Qasim Ali",
+    title: "Shadow Monarch of Code",
+    location: "Pakistan 🇵🇰",
+    rank: "SSS-Class Developer (In Progress)",
+    
+    currentQuests: [
+        "🔥 Mastering Advanced React Patterns",
+        "⚔️ Building Scalable Web Applications",
+        "🛡️ Exploring Next.js & Server Components",
+        "💎 Contributing to Open Source",
+        "🌙 Leveling Up System Design Skills"
+    ],
+    
+    dailyRoutine: function() {
+        while(alive) {
+            eat();
+            code();
+            sleep();
+            repeat();
         }
+    },
+    
+    summonShadowArmy: function() {
+        return "ARISE! 🗡️";
+    }
+};
+```
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0a0e27 0%, #1a1a2e 50%, #16213e 100%);
-            color: #e0e0e0;
-            overflow-x: hidden;
-            position: relative;
-        }
+</div>
 
-        /* Animated background particles */
-        .particle {
-            position: fixed;
-            width: 3px;
-            height: 3px;
-            background: rgba(138, 180, 248, 0.5);
-            border-radius: 50%;
-            animation: float 15s infinite;
-            z-index: 0;
-        }
+---
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0) translateX(0); opacity: 0; }
-            10% { opacity: 1; }
-            90% { opacity: 1; }
-            100% { transform: translateY(-100vh) translateX(50px); opacity: 0; }
-        }
+<div align="center">
 
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 20px;
-            position: relative;
-            z-index: 1;
-        }
+## 🔮 **GUILD CONNECTIONS** 🔮
 
-        /* Header with glow effect */
-        .header {
-            text-align: center;
-            padding: 60px 20px;
-            background: linear-gradient(135deg, rgba(26, 26, 46, 0.9), rgba(22, 33, 62, 0.9));
-            border-radius: 20px;
-            margin-bottom: 40px;
-            position: relative;
-            overflow: hidden;
-            border: 2px solid rgba(138, 180, 248, 0.3);
-            box-shadow: 0 0 40px rgba(138, 180, 248, 0.2);
-            animation: fadeInDown 1s ease-out;
-        }
+### 『 Join My Party 』
 
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(138, 180, 248, 0.1), transparent);
-            animation: shine 3s infinite;
-        }
+<a href="https://www.instagram.com/syedqasim963" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" height="40"/>
+</a>
+<a href="mailto:syedqasim963@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="40"/>
+</a>
+<a href="https://linkedin.com/in/s-qasim-ali" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="40"/>
+</a>
+<a href="https://github.com/s-q-ali" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="40"/>
+</a>
 
-        @keyframes shine {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
+<br/>
 
-        @keyframes fadeInDown {
-            from {
-                opacity: 0;
-                transform: translateY(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+<img src="https://komarev.com/ghpvc/?username=s-q-ali&style=for-the-badge&color=9D4EDD&label=HUNTERS+VISITED" height="40"/>
 
-        .header h1 {
-            font-size: 3.5em;
-            font-weight: 900;
-            background: linear-gradient(135deg, #8ab4f8 0%, #5e9cff 50%, #4a90ff 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 15px;
-            text-shadow: 0 0 30px rgba(138, 180, 248, 0.5);
-            animation: glow 2s ease-in-out infinite alternate;
-            position: relative;
-            z-index: 1;
-        }
+</div>
 
-        @keyframes glow {
-            from { filter: drop-shadow(0 0 10px rgba(138, 180, 248, 0.5)); }
-            to { filter: drop-shadow(0 0 20px rgba(138, 180, 248, 0.8)); }
-        }
+---
 
-        .subtitle {
-            font-size: 1.3em;
-            color: #8ab4f8;
-            margin-top: 10px;
-            position: relative;
-            z-index: 1;
-            animation: fadeIn 1.5s ease-out;
-        }
+<div align="center">
 
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
+## 🐍 **SHADOW EXTRACTION: CONTRIBUTION SNAKE** 🐍
 
-        .rank-badge {
-            display: inline-block;
-            padding: 12px 30px;
-            background: linear-gradient(135deg, #8ab4f8, #5e9cff);
-            border-radius: 30px;
-            margin-top: 20px;
-            font-weight: bold;
-            font-size: 1.2em;
-            color: #0a0e27;
-            box-shadow: 0 5px 20px rgba(138, 180, 248, 0.4);
-            animation: pulse 2s ease-in-out infinite;
-            position: relative;
-            z-index: 1;
-        }
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s-q-ali/s-q-ali/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s-q-ali/s-q-ali/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s-q-ali/s-q-ali/output/github-contribution-grid-snake.svg">
+</picture>
 
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); }
-            50% { transform: scale(1.05); }
-        }
+<sub>*My commits being consumed by the Shadow Army*</sub>
 
-        /* Stats Grid */
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 25px;
-            margin-bottom: 40px;
-            animation: fadeInUp 1s ease-out 0.3s backwards;
-        }
+</div>
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+---
 
-        .stat-card {
-            background: linear-gradient(135deg, rgba(26, 26, 46, 0.95), rgba(22, 33, 62, 0.95));
-            padding: 30px;
-            border-radius: 15px;
-            border: 2px solid rgba(138, 180, 248, 0.2);
-            transition: all 0.4s ease;
-            position: relative;
-            overflow: hidden;
-        }
+<div align="center">
 
-        .stat-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(138, 180, 248, 0.1), transparent);
-            transition: left 0.5s ease;
-        }
+## 💀 **MONARCH'S DECLARATION** 💀
 
-        .stat-card:hover::before {
-            left: 100%;
-        }
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs&border=true&bg_color=0D1117&titleColor=9D4EDD&textColor=FFFFFF" width="600"/>
 
-        .stat-card:hover {
-            transform: translateY(-10px) scale(1.02);
-            border-color: rgba(138, 180, 248, 0.6);
-            box-shadow: 0 10px 40px rgba(138, 180, 248, 0.3);
-        }
+### **"I ALONE LEVEL UP" 🌑
 
-        .stat-card h3 {
-            color: #8ab4f8;
-            font-size: 1.3em;
-            margin-bottom: 15px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+```ascii
+    ⚔️  Building the future, one line of code at a time  ⚔️
+    
+    💜 Open for collaboration on epic projects
+    🎯 Always ready to conquer new technical dungeons
+    🚀 Transforming ideas into legendary applications
+```
 
-        .stat-icon {
-            font-size: 1.5em;
-            animation: rotate 3s linear infinite;
-        }
+</div>
 
-        @keyframes rotate {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
+---
 
-        .stat-value {
-            font-size: 2.5em;
-            font-weight: bold;
-            background: linear-gradient(135deg, #fff, #8ab4f8);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+<div align="center">
 
-        /* Skills Section */
-        .skills-section {
-            background: linear-gradient(135deg, rgba(26, 26, 46, 0.95), rgba(22, 33, 62, 0.95));
-            padding: 40px;
-            border-radius: 20px;
-            margin-bottom: 40px;
-            border: 2px solid rgba(138, 180, 248, 0.3);
-            animation: fadeInUp 1s ease-out 0.6s backwards;
-        }
+### ⭐ **LEGENDARY DROP: SUPPORT THE JOURNEY** ⭐
 
-        .skills-section h2 {
-            font-size: 2.5em;
-            color: #8ab4f8;
-            margin-bottom: 30px;
-            text-align: center;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-        }
+*If you find my work valuable, consider giving a ⭐ to my repositories!*
 
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-            gap: 20px;
-        }
+**Every star powers up my leveling system! 🌟**
 
-        .skill-item {
-            background: linear-gradient(135deg, rgba(138, 180, 248, 0.1), rgba(94, 156, 255, 0.1));
-            padding: 25px;
-            border-radius: 15px;
-            text-align: center;
-            transition: all 0.4s ease;
-            border: 2px solid transparent;
-            position: relative;
-            overflow: hidden;
-        }
+<img src="https://img.shields.io/github/stars/s-q-ali?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=F72585" height="30"/>
+<img src="https://img.shields.io/github/followers/s-q-ali?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=7209B7" height="30"/>
 
-        .skill-item::after {
-            content: '';
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 0;
-            height: 0;
-            border-radius: 50%;
-            background: rgba(138, 180, 248, 0.2);
-            transform: translate(-50%, -50%);
-            transition: width 0.5s ease, height 0.5s ease;
-        }
+</div>
 
-        .skill-item:hover::after {
-            width: 200%;
-            height: 200%;
-        }
+---
 
-        .skill-item:hover {
-            transform: translateY(-10px) scale(1.1);
-            border-color: rgba(138, 180, 248, 0.5);
-            box-shadow: 0 10px 30px rgba(138, 180, 248, 0.3);
-        }
+<div align="center">
 
-        .skill-icon {
-            font-size: 3em;
-            margin-bottom: 10px;
-            position: relative;
-            z-index: 1;
-        }
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=ARISE!&fontSize=40&fontColor=fff&animation=twinkling"/>
 
-        .skill-name {
-            color: #e0e0e0;
-            font-weight: bold;
-            position: relative;
-            z-index: 1;
-        }
+<sub>**🗡️ Forged in the Shadow Dungeon | Powered by Determination | Pakistan 🇵🇰**</sub>
 
-        /* Contact Section */
-        .contact-section {
-            background: linear-gradient(135deg, rgba(26, 26, 46, 0.95), rgba(22, 33, 62, 0.95));
-            padding: 40px;
-            border-radius: 20px;
-            text-align: center;
-            border: 2px solid rgba(138, 180, 248, 0.3);
-            animation: fadeInUp 1s ease-out 0.9s backwards;
-        }
-
-        .contact-section h2 {
-            font-size: 2.5em;
-            color: #8ab4f8;
-            margin-bottom: 30px;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-        }
-
-        .contact-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: wrap;
-        }
-
-        .contact-btn {
-            padding: 15px 35px;
-            background: linear-gradient(135deg, #8ab4f8, #5e9cff);
-            color: #0a0e27;
-            text-decoration: none;
-            border-radius: 30px;
-            font-weight: bold;
-            font-size: 1.1em;
-            transition: all 0.3s ease;
-            box-shadow: 0 5px 15px rgba(138, 180, 248, 0.3);
-            position: relative;
-            overflow: hidden;
-        }
-
-        .contact-btn::before {
-            content: '';
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 0;
-            height: 0;
-            border-radius: 50%;
-            background: rgba(255, 255, 255, 0.3);
-            transform: translate(-50%, -50%);
-            transition: width 0.5s ease, height 0.5s ease;
-        }
-
-        .contact-btn:hover::before {
-            width: 300px;
-            height: 300px;
-        }
-
-        .contact-btn:hover {
-            transform: translateY(-5px) scale(1.05);
-            box-shadow: 0 10px 30px rgba(138, 180, 248, 0.5);
-        }
-
-        .contact-btn span {
-            position: relative;
-            z-index: 1;
-        }
-
-        /* Level Progress Bar */
-        .level-progress {
-            background: rgba(26, 26, 46, 0.95);
-            padding: 30px;
-            border-radius: 15px;
-            margin: 40px 0;
-            border: 2px solid rgba(138, 180, 248, 0.3);
-            animation: fadeInUp 1s ease-out 1.2s backwards;
-        }
-
-        .level-info {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 15px;
-            color: #8ab4f8;
-            font-weight: bold;
-            font-size: 1.2em;
-        }
-
-        .progress-bar {
-            height: 30px;
-            background: rgba(138, 180, 248, 0.1);
-            border-radius: 15px;
-            overflow: hidden;
-            position: relative;
-        }
-
-        .progress-fill {
-            height: 100%;
-            background: linear-gradient(90deg, #8ab4f8, #5e9cff, #4a90ff);
-            border-radius: 15px;
-            animation: fillProgress 2s ease-out forwards;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .progress-fill::after {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
-            animation: shimmer 2s infinite;
-        }
-
-        @keyframes fillProgress {
-            from { width: 0; }
-            to { width: 78%; }
-        }
-
-        @keyframes shimmer {
-            0% { transform: translateX(-100%); }
-            100% { transform: translateX(100%); }
-        }
-
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .header h1 {
-                font-size: 2em;
-            }
-
-            .stats-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .skills-grid {
-                grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-            }
-
-            .contact-links {
-                flex-direction: column;
-                align-items: center;
-            }
-        }
-    </style>
-</head>
-<body>
-    <!-- Animated particles -->
-    <script>
-        for (let i = 0; i < 30; i++) {
-            const particle = document.createElement('div');
-            particle.className = 'particle';
-            particle.style.left = Math.random() * 100 + '%';
-            particle.style.animationDelay = Math.random() * 15 + 's';
-            particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
-            document.body.appendChild(particle);
-        }
-    </script>
-
-    <div class="container">
-        <!-- Header -->
-        <div class="header">
-            <h1>⚔️ SYED QASIM ALI ⚔️</h1>
-            <p class="subtitle">Frontend Developer | Associate Software Developer</p>
-            <div class="rank-badge">🌟 S-RANK HUNTER 🌟</div>
-        </div>
-
-        <!-- Level Progress -->
-        <div class="level-progress">
-            <div class="level-info">
-                <span>📊 DEVELOPER LEVEL: 78</span>
-                <span>EXP: 78,450 / 100,000</span>
-            </div>
-            <div class="progress-bar">
-                <div class="progress-fill"></div>
-            </div>
-        </div>
-
-        <!-- Stats Grid -->
-        <div class="stats-grid">
-            <div class="stat-card">
-                <h3><span class="stat-icon">💻</span> Total Projects</h3>
-                <div class="stat-value">50+</div>
-            </div>
-            <div class="stat-card">
-                <h3><span class="stat-icon">🔥</span> Commit Streak</h3>
-                <div class="stat-value">365</div>
-            </div>
-            <div class="stat-card">
-                <h3><span class="stat-icon">⭐</span> Stars Earned</h3>
-                <div class="stat-value">1.2K</div>
-            </div>
-            <div class="stat-card">
-                <h3><span class="stat-icon">🎯</span> Pull Requests</h3>
-                <div class="stat-value">200+</div>
-            </div>
-        </div>
-
-        <!-- Skills Section -->
-        <div class="skills-section">
-            <h2>⚡ HUNTER ABILITIES ⚡</h2>
-            <div class="skills-grid">
-                <div class="skill-item">
-                    <div class="skill-icon">⚛️</div>
-                    <div class="skill-name">React</div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">📜</div>
-                    <div class="skill-name">JavaScript</div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🎨</div>
-                    <div class="skill-name">HTML5</div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">💎</div>
-                    <div class="skill-name">CSS3</div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🟢</div>
-                    <div class="skill-name">Node.js</div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🔱</div>
-                    <div class="skill-name">Git</div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">💼</div>
-                    <div class="skill-name">VS Code</div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🎯</div>
-                    <div class="skill-name">TypeScript</div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Contact Section -->
-        <div class="contact-section">
-            <h2>🌐 CONNECT WITH ME 🌐</h2>
-            <div class="contact-links">
-                <a href="https://github.com/s-q-ali" target="_blank" class="contact-btn">
-                    <span>💻 GitHub</span>
-                </a>
-                <a href="https://linkedin.com/in/s-qasim-ali" target="_blank" class="contact-btn">
-                    <span>💼 LinkedIn</span>
-                </a>
-                <a href="mailto:syedqasim963@gmail.com" target="_blank" class="contact-btn">
-                    <span>📧 Email</span>
-                </a>
-                <a href="https://www.instagram.com/syedqasim963" target="_blank" class="contact-btn">
-                    <span>📱 Instagram</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+</div>
