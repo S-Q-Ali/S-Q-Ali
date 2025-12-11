@@ -44,7 +44,7 @@
 
 ### 📊 **SYSTEM WINDOW: GITHUB STATS**
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=s-q-ali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=F72585&text_color=FFFFFF&ring_color=7209B7&fire_color=F72585&include_all_commits=true&count_private=true" width="100%"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=s-q-ali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=F72585&text_color=FFFFFF&ring_color=7209B7&fire_color=F72585&include_all_commits=true&count_private=true" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-q-ali&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=F72585&fire=F72585&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=F72585&sideNums=7209B7&dates=FFFFFFAA" width="100%"/>
 
