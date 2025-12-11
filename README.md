@@ -79,54 +79,44 @@
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript"/><br/>
 <sub><b>JavaScript</b></sub><br/>
-<sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React"/><br/>
 <sub><b>React</b></sub><br/>
-<sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/><br/>
 <sub><b>Node.js</b></sub><br/>
-<sub>⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/><br/>
 <sub><b>HTML5</b></sub><br/>
-<sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/><br/>
 <sub><b>CSS3</b></sub><br/>
-<sub>⭐⭐⭐⭐⭐</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind"/><br/>
 <sub><b>Tailwind</b></sub><br/>
-<sub>⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/><br/>
 <sub><b>Git</b></sub><br/>
-<sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/><br/>
 <sub><b>GitHub</b></sub><br/>
-<sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br/>
 <sub><b>VS Code</b></sub><br/>
-<sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase"/><br/>
 <sub><b>Firebase</b></sub><br/>
-<sub>⭐⭐⭐⭐</sub>
 </td>
 </tr>
 </table>
