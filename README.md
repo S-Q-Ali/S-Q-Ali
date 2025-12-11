@@ -33,7 +33,7 @@
 
 ## 🏆 **HUNTER'S STATS** 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=s-q-ali&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Trophy Stats"/>
+<img src="https://github-profile-trophy.vercel.app/?username=s-q-ali" alt="Trophy Stats"/>
 
 </div>
 
