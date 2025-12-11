@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # This gives the action permission to write the image file
+  contents: write # This gives the action permission to write the image file
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: s-q-ali  # 👈 REPLACE THIS
+          github_user_name: s-q-ali # 👈 REPLACE THIS
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -28,7 +28,7 @@ jobs:
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output  # The snake images will be saved on a branch named 'output'
+          target_branch: output # The snake images will be saved on a branch named 'output'
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
