@@ -114,10 +114,6 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br/>
 <sub><b>VS Code</b></sub><br/>
 </td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase"/><br/>
-<sub><b>Firebase</b></sub><br/>
-</td>
 </tr>
 </table>
 
