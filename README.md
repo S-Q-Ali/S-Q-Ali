@@ -96,16 +96,16 @@
 <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/><br/>
 <sub><b>HTML5</b></sub><br/>
 </td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/><br/>
-<sub><b>CSS3</b></sub><br/>
-</td>
 </tr>
 <tr>
 <td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/><br/>
+<sub><b>CSS3</b></sub><br/>
+</td>  
+<td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind"/><br/>
 <sub><b>Tailwind</b></sub><br/>
-</td>
+</td>  
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/><br/>
 <sub><b>Git</b></sub><br/>
