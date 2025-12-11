@@ -1,75 +1,46 @@
-<!-- Banner -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00C7FF&center=true&vCenter=true&width=700&lines=Syed+Qasim+Ali;Frontend+Developer;Crafting+Clean+Efficient+and+Modern+User+Interfaces;Turning+Ideas+Into+Functional+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2400&color=00C7FF&center=true&vCenter=true&width=650&lines=Syed+Qasim+Ali;Frontend+Developer;Building+Clean+Modern+Interfaces;Crafting+User-Centric+Digital+Experiences" />
 </p>
 
----
-
-<h1 align="center">Hi, I'm Syed Qasim Ali</h1>
+<h1 align="center">Hi, I'm Qasim</h1>
 <h3 align="center">Frontend Developer | Associate Software Developer</h3>
 
+---
+
+## ⚡ Tech Stack
 <p align="center">
-  I build clean, responsive, and scalable interfaces using modern JavaScript and React.js.  
-  Focused on delivering intuitive user experiences and production-ready solutions.
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,git,github,vscode" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Featured Work  
+_Add your project links here later_
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,github,git,vscode,npm" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-_You can paste your projects here later_
-
-### Project Title
-Short one-line description.  
-**Tech:** React.js • Node.js • Express  
-[Repo](#) • [Live](#)
-
-### Project Title  
-Short one-line description.  
-**Tech:** JavaScript • Tailwind  
-[Repo](#) • [Live](#)
+**Project Name** — Short description  
+**Tech:** React • Node.js  
+[Repo](#) | [Live](#)
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
-
+## 📊 GitHub Insights
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=qasimmm&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=qasimmm&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=qasimmm&theme=tokyonight" />
 </p>
 
+---
+
+## 🎯 Tagline  
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimmm&layout=compact&theme=tokyonight" />
+  <b>"Turning ideas into polished, functional, and intuitive user experiences."</b>
 </p>
 
 ---
 
-## 🎯 Personal Tagline  
-**“Frontend engineer who turns concepts into polished, functional, and user-focused digital products.”**
-
----
-
-## 💡 Current Focus
-- Sharpening advanced React patterns  
-- Improving backend API development  
-- Building production-grade full-stack apps  
-
----
-
-## 📬 Connect With Me
-Feel free to reach out for roles, collaborations, or discussions.  
+## 📫 Contact  
 **Email:** your.email@example.com  
 **LinkedIn:** your-linkedin-url
 
----
-
-<p align="center">
-  <b>If my work inspires you, feel free to ⭐ star a repository!</b>
-</p>
+<p align="center">⭐ If you like my work, consider starring a repo!</p>
