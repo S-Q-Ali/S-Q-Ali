@@ -89,6 +89,10 @@
 <sub><b>Node.js</b></sub><br/>
 </td>
 <td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express"/><br/>
+<sub><b>Express</b></sub><br/>
+</td> 
+<td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/><br/>
 <sub><b>HTML5</b></sub><br/>
 </td>
