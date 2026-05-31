@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Title Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SUNG%20QASIM%20ALI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Shadow%20Monarch%20of%20AI%20Full Stack%20Development&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SUNG%20QASIM%20ALI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Shadow%20Monarch%20of%20AI%20Full%20Stack%20Development&descAlignY=51&descAlign=50"/>
 
 </div>
 
