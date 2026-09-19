@@ -19,6 +19,43 @@
 
 </div>
 
+<!--SKILL-RANK:START-->
+<div align="center">
+
+### ⚔️ **HUNTER RANK: S-Rank (Monarch)** ⚔️
+
+**Primary Discipline: Video / AI Media Tools**
+
+> Video / Media Tooling Engineer — Automating video workflows and content tools.
+
+<sub>Updated 2026-09-19 | 27 public repos analyzed by the Shadow Army's automated scout</sub>
+
+</div>
+
+**SKILL INVENTORY RANKS**
+
+| Skill | Rank | Index |
+|---|---|---|
+| Video / AI Media Tools | S-Rank (Monarch) | 3.29 |
+| Automation Engineer | A-Rank (Elite) | 1.79 |
+| Frontend Developer | A-Rank (Elite) | 1.53 |
+| AI Engineer | B-Rank (Veteran) | 1.45 |
+| Backend Developer | B-Rank (Veteran) | 1.44 |
+| Full-Stack Developer | B-Rank (Veteran) | 1.2 |
+| Technical Writing | D-Rank (Apprentice) | 0.46 |
+
+**EVIDENCE — REPOS DRIVING THE VIDEO / AI MEDIA TOOLS RANK**
+
+- Lava
+- Mis-Clear
+- S-Q-Creator-Studio
+- YouTube-Creator-Tool
+- Editor-Agent
+- Auto-Captions
+- SnipVid
+- Vid-Automator
+<!--SKILL-RANK:END-->
+
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
