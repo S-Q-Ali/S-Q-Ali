@@ -1,35 +1,65 @@
 {
-  "generated_at": "2026-09-19T17:40:18Z",
+  "generated_at": "2026-09-19T18:07:02Z",
   "username": "S-Q-Ali",
   "analyzed_repos": 27,
   "top_skill": "Video / AI Media Tools",
   "overall_rank": "S",
   "scores": {
-    "Video / AI Media Tools": 88.71,
-    "Automation Engineer": 48.27,
-    "Frontend Developer": 41.31,
-    "AI Engineer": 39.05,
-    "Backend Developer": 38.8,
-    "Full-Stack Developer": 32.35,
+    "Video / AI Media Tools": 86.48,
+    "Automation Engineer": 46.19,
+    "AI Engineer": 41.1,
+    "Backend Developer": 34.16,
+    "Frontend Developer": 31.43,
+    "Full-Stack Developer": 24.91,
     "Technical Writing": 12.48
   },
   "indexes": {
-    "Video / AI Media Tools": 3.29,
-    "Automation Engineer": 1.79,
-    "Frontend Developer": 1.53,
-    "AI Engineer": 1.45,
-    "Backend Developer": 1.44,
-    "Full-Stack Developer": 1.2,
+    "Video / AI Media Tools": 3.2,
+    "Automation Engineer": 1.71,
+    "AI Engineer": 1.52,
+    "Backend Developer": 1.27,
+    "Frontend Developer": 1.16,
+    "Full-Stack Developer": 0.92,
     "Technical Writing": 0.46
   },
   "ranks": {
-    "AI Engineer": "B",
-    "Frontend Developer": "A",
+    "AI Engineer": "A",
+    "Frontend Developer": "B",
     "Backend Developer": "B",
-    "Full-Stack Developer": "B",
+    "Full-Stack Developer": "C",
     "Automation Engineer": "A",
     "Video / AI Media Tools": "S",
     "Technical Writing": "D"
+  },
+  "sfia": {
+    "AI Engineer": [
+      4,
+      "Enable"
+    ],
+    "Frontend Developer": [
+      4,
+      "Enable"
+    ],
+    "Backend Developer": [
+      4,
+      "Enable"
+    ],
+    "Full-Stack Developer": [
+      3,
+      "Apply"
+    ],
+    "Automation Engineer": [
+      5,
+      "Ensure"
+    ],
+    "Video / AI Media Tools": [
+      7,
+      "Set strategy"
+    ],
+    "Technical Writing": [
+      2,
+      "Assist"
+    ]
   },
   "roles": {
     "AI Engineer": "AI / Machine Learning Engineer \u2014 Building models, agents and generative AI tooling.",
@@ -42,6 +72,7 @@
   },
   "evidence": {
     "AI Engineer": [
+      "S-Q-Ali",
       "Lava",
       "Mis-Clear",
       "S-Q-Creator-Studio",
@@ -54,11 +85,10 @@
       "Right-Tool",
       "VideoKit-USERGUIDE",
       "FlowPostStudio-User-Guide",
-      "AutoFlow-AI-Auto-VEO-Nano-Banana",
-      "S-Q-Ali",
-      "BuyYours-ECommerce-Website"
+      "AutoFlow-AI-Auto-VEO-Nano-Banana"
     ],
     "Frontend Developer": [
+      "S-Q-Ali",
       "Lava",
       "Mis-Clear",
       "S-Q-Creator-Studio",
@@ -68,14 +98,12 @@
       "SnipVid",
       "Vid-Automator",
       "FlowPostStudio-User-Guide",
-      "S-Q-Ali",
       "OTP-Extractor",
-      "Internship-Practice-Project",
-      "Internship",
-      "JS-Basics-META",
-      "Portfolio"
+      "Portfolio",
+      "BuyYours-ECommerce-Website"
     ],
     "Backend Developer": [
+      "S-Q-Ali",
       "Lava",
       "Mis-Clear",
       "S-Q-Creator-Studio",
@@ -89,10 +117,10 @@
       "Right-Tool",
       "VideoKit-USERGUIDE",
       "FlowPostStudio-User-Guide",
-      "S-Q-Ali",
       "HRMS"
     ],
     "Full-Stack Developer": [
+      "S-Q-Ali",
       "Lava",
       "Mis-Clear",
       "S-Q-Creator-Studio",
@@ -103,13 +131,12 @@
       "Vid-Automator",
       "Flux-Automation-",
       "Scrape-Creator-from-Tiktok",
-      "S-Q-Ali",
       "HRMS",
       "OTP-Extractor",
-      "Internship-Practice-Project",
-      "Internship"
+      "BuyYours-ECommerce-Website"
     ],
     "Automation Engineer": [
+      "S-Q-Ali",
       "Lava",
       "Mis-Clear",
       "S-Q-Creator-Studio",
@@ -123,10 +150,10 @@
       "Right-Tool",
       "VideoKit-USERGUIDE",
       "FlowPostStudio-User-Guide",
-      "AutoFlow-AI-Auto-VEO-Nano-Banana",
-      "OTP-Extractor"
+      "AutoFlow-AI-Auto-VEO-Nano-Banana"
     ],
     "Video / AI Media Tools": [
+      "S-Q-Ali",
       "Lava",
       "Mis-Clear",
       "S-Q-Creator-Studio",
@@ -140,8 +167,7 @@
       "Right-Tool",
       "VideoKit-USERGUIDE",
       "FlowPostStudio-User-Guide",
-      "AutoFlow-AI-Auto-VEO-Nano-Banana",
-      "S-Q-Ali"
+      "AutoFlow-AI-Auto-VEO-Nano-Banana"
     ],
     "Technical Writing": [
       "Lava",
@@ -152,6 +178,18 @@
     ]
   },
   "repos": [
+    {
+      "name": "S-Q-Ali",
+      "lang": "Python",
+      "pushed_days": 0,
+      "AI Engineer": 3.2,
+      "Frontend Developer": 2.0,
+      "Backend Developer": 3.8,
+      "Full-Stack Developer": 1.8,
+      "Automation Engineer": 3.2,
+      "Video / AI Media Tools": 4.4,
+      "Technical Writing": 0.0
+    },
     {
       "name": "Lava",
       "lang": "HTML",
@@ -345,18 +383,6 @@
       "Technical Writing": 2.0
     },
     {
-      "name": "S-Q-Ali",
-      "lang": null,
-      "pushed_days": 0,
-      "AI Engineer": 0.4,
-      "Frontend Developer": 2.0,
-      "Backend Developer": 2.4,
-      "Full-Stack Developer": 0.4,
-      "Automation Engineer": 0.0,
-      "Video / AI Media Tools": 0.4,
-      "Technical Writing": 0.0
-    },
-    {
       "name": "HRMS",
       "lang": null,
       "pushed_days": 274,
@@ -382,26 +408,26 @@
     },
     {
       "name": "Internship-Practice-Project",
-      "lang": "JavaScript",
+      "lang": null,
       "pushed_days": 400,
       "AI Engineer": 0.0,
-      "Frontend Developer": 2.0,
-      "Backend Developer": 1.19,
-      "Full-Stack Developer": 1.99,
-      "Automation Engineer": 1.19,
-      "Video / AI Media Tools": 1.39,
+      "Frontend Developer": 0.0,
+      "Backend Developer": 0.0,
+      "Full-Stack Developer": 0.0,
+      "Automation Engineer": 0.0,
+      "Video / AI Media Tools": 0.0,
       "Technical Writing": 0.0
     },
     {
       "name": "Internship",
-      "lang": "JavaScript",
+      "lang": null,
       "pushed_days": 410,
       "AI Engineer": 0.0,
-      "Frontend Developer": 1.87,
-      "Backend Developer": 0.94,
-      "Full-Stack Developer": 1.79,
-      "Automation Engineer": 0.94,
-      "Video / AI Media Tools": 1.1,
+      "Frontend Developer": 0.0,
+      "Backend Developer": 0.0,
+      "Full-Stack Developer": 0.0,
+      "Automation Engineer": 0.0,
+      "Video / AI Media Tools": 0.0,
       "Technical Writing": 0.0
     },
     {
@@ -418,47 +444,47 @@
     },
     {
       "name": "JS-Basics-META",
-      "lang": "JavaScript",
+      "lang": null,
       "pushed_days": 414,
       "AI Engineer": 0.0,
-      "Frontend Developer": 2.0,
-      "Backend Developer": 1.2,
-      "Full-Stack Developer": 2.0,
-      "Automation Engineer": 1.2,
-      "Video / AI Media Tools": 1.4,
+      "Frontend Developer": 0.0,
+      "Backend Developer": 0.0,
+      "Full-Stack Developer": 0.0,
+      "Automation Engineer": 0.0,
+      "Video / AI Media Tools": 0.0,
       "Technical Writing": 0.0
     },
     {
       "name": "Portfolio",
-      "lang": "JavaScript",
+      "lang": null,
       "pushed_days": 422,
       "AI Engineer": 0.0,
-      "Frontend Developer": 6.39,
-      "Backend Developer": 1.18,
-      "Full-Stack Developer": 1.98,
-      "Automation Engineer": 1.18,
-      "Video / AI Media Tools": 1.38,
+      "Frontend Developer": 4.0,
+      "Backend Developer": 0.0,
+      "Full-Stack Developer": 0.0,
+      "Automation Engineer": 0.0,
+      "Video / AI Media Tools": 0.0,
       "Technical Writing": 0.0
     },
     {
       "name": "Web-Based-Projects",
-      "lang": "CSS",
+      "lang": null,
       "pushed_days": 542,
       "AI Engineer": 0.0,
-      "Frontend Developer": 1.64,
-      "Backend Developer": 0.65,
-      "Full-Stack Developer": 1.0,
-      "Automation Engineer": 0.24,
-      "Video / AI Media Tools": 0.29,
+      "Frontend Developer": 0.0,
+      "Backend Developer": 0.0,
+      "Full-Stack Developer": 0.0,
+      "Automation Engineer": 0.0,
+      "Video / AI Media Tools": 0.0,
       "Technical Writing": 0.0
     },
     {
       "name": "Harbor_Hero_Project",
-      "lang": "C#",
+      "lang": null,
       "pushed_days": 590,
       "AI Engineer": 0.0,
       "Frontend Developer": 0.0,
-      "Backend Developer": 0.68,
+      "Backend Developer": 0.0,
       "Full-Stack Developer": 0.0,
       "Automation Engineer": 0.0,
       "Video / AI Media Tools": 0.0,
@@ -466,14 +492,14 @@
     },
     {
       "name": "BuyYours-ECommerce-Website",
-      "lang": "JavaScript",
+      "lang": null,
       "pushed_days": 742,
-      "AI Engineer": 0.4,
-      "Frontend Developer": 4.78,
-      "Backend Developer": 1.16,
-      "Full-Stack Developer": 4.37,
-      "Automation Engineer": 1.16,
-      "Video / AI Media Tools": 1.36,
+      "AI Engineer": 0.0,
+      "Frontend Developer": 2.4,
+      "Backend Developer": 0.0,
+      "Full-Stack Developer": 2.4,
+      "Automation Engineer": 0.0,
+      "Video / AI Media Tools": 0.0,
       "Technical Writing": 0.0
     }
   ]

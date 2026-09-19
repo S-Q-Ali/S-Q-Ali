@@ -28,24 +28,27 @@
 
 > Video / Media Tooling Engineer — Automating video workflows and content tools.
 
+> **SFIA L7 (Set strategy)**
+
 <sub>Updated 2026-09-19 | 27 public repos analyzed by the Shadow Army's automated scout</sub>
 
 </div>
 
 **SKILL INVENTORY RANKS**
 
-| Skill | Rank | Index |
-|---|---|---|
-| Video / AI Media Tools | S-Rank (Monarch) | 3.29 |
-| Automation Engineer | A-Rank (Elite) | 1.79 |
-| Frontend Developer | A-Rank (Elite) | 1.53 |
-| AI Engineer | B-Rank (Veteran) | 1.45 |
-| Backend Developer | B-Rank (Veteran) | 1.44 |
-| Full-Stack Developer | B-Rank (Veteran) | 1.2 |
-| Technical Writing | D-Rank (Apprentice) | 0.46 |
+| Skill | Rank | Index | SFIA 8 Level |
+|---|---|---|---|
+| Video / AI Media Tools | S-Rank (Monarch) | 3.2 | L7 · Set strategy |
+| Automation Engineer | A-Rank (Elite) | 1.71 | L5 · Ensure |
+| AI Engineer | A-Rank (Elite) | 1.52 | L4 · Enable |
+| Backend Developer | B-Rank (Veteran) | 1.27 | L4 · Enable |
+| Frontend Developer | B-Rank (Veteran) | 1.16 | L4 · Enable |
+| Full-Stack Developer | C-Rank (Skilled) | 0.92 | L3 · Apply |
+| Technical Writing | D-Rank (Apprentice) | 0.46 | L2 · Assist |
 
 **EVIDENCE — REPOS DRIVING THE VIDEO / AI MEDIA TOOLS RANK**
 
+- S-Q-Ali
 - Lava
 - Mis-Clear
 - S-Q-Creator-Studio
@@ -53,7 +56,10 @@
 - Editor-Agent
 - Auto-Captions
 - SnipVid
-- Vid-Automator
+
+_Ranks follow the Solo Leveling theme; SFIA 8 columns map the repo-derived index onto the 
+industry-standard Skills Framework for the Information Age (levels 1-7). This is a 
+portfolio-based estimation, not a formal SFIA assessment._
 <!--SKILL-RANK:END-->
 
 ```ascii

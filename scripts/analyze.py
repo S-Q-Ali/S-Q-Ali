@@ -41,6 +41,19 @@ RANK_THRESHOLDS = [
     (0.0, "E"),
 ]
 
+# Mapping of skill index onto the SFIA 8 responsibility levels (1-7).
+# This is an approximation: SFIA is normally assessed via evidence/rubric,
+# here we use the repo-derived index as a proxy signal.
+SFIA_THRESHOLDS = [
+    (3.0, 7, "Set strategy"),
+    (2.2, 6, "Initiate"),
+    (1.6, 5, "Ensure"),
+    (1.1, 4, "Enable"),
+    (0.6, 3, "Apply"),
+    (0.3, 2, "Assist"),
+    (0.0, 1, "Follow"),
+]
+
 # Keyword matching costs for a repo's text signals.
 WEIGHT_NAME = 3.0
 WEIGHT_DESC = 2.0
@@ -139,9 +152,13 @@ def api_get(path, accept_raw=False):
 
     cache_key = path.replace("/", "_").replace("?", "_")
     cache_file = os.path.join(CACHE_DIR, cache_key + (".txt" if accept_raw else ".json"))
-    if os.path.exists(cache_file) and os.environ.get("SKIP_CACHE") != "1":
+    if os.path.exists(cache_file):
         with open(cache_file, "r", encoding="utf-8") as fh:
             return json.load(fh) if not accept_raw else fh.read()
+    if os.environ.get("SKIP_NET") == "1":
+        return None
+    if os.environ.get("SKIP_CACHE") == "1":
+        cache_file = None
 
     for attempt in range(3):
         req = urllib.request.Request(url, headers=req_headers)
@@ -150,14 +167,16 @@ def api_get(path, accept_raw=False):
                 body = resp.read()
                 if accept_raw:
                     text = body.decode("utf-8", errors="replace")
-                    os.makedirs(CACHE_DIR, exist_ok=True)
-                    with open(cache_file, "w", encoding="utf-8") as fh:
-                        fh.write(text)
+                    if cache_file:
+                        os.makedirs(CACHE_DIR, exist_ok=True)
+                        with open(cache_file, "w", encoding="utf-8") as fh:
+                            fh.write(text)
                     return text
                 data = json.loads(body.decode("utf-8"))
-                os.makedirs(CACHE_DIR, exist_ok=True)
-                with open(cache_file, "w", encoding="utf-8") as fh:
-                    json.dump(data, fh)
+                if cache_file:
+                    os.makedirs(CACHE_DIR, exist_ok=True)
+                    with open(cache_file, "w", encoding="utf-8") as fh:
+                        json.dump(data, fh)
                 return data
         except urllib.error.HTTPError as err:
             if err.code == 429 or err.code >= 500:
@@ -199,6 +218,13 @@ def rank_for_score(score):
         if score >= threshold:
             return rank
     return "E"
+
+
+def sfia_for_index(index):
+    for threshold, level, label in SFIA_THRESHOLDS:
+        if index >= threshold:
+            return level, label
+    return 1, "Follow"
 
 
 def days_since(iso):
@@ -289,6 +315,7 @@ def analyze():
     n = float(len(repos)) or 1.0
     indexes = {s: sc / n for s, sc in scores.items()}
     ranks = {s: rank_for_score(indexes[s]) for s, sc in scores.items()}
+    sfia = {s: sfia_for_index(indexes[s]) for s, sc in scores.items()}
     top_skill = max(indexes, key=lambda s: (indexes[s], scores[s]))
 
     def role_blurb(skill):
@@ -303,13 +330,14 @@ def analyze():
         "scores": {k: round(v, 2) for k, v in sorted(scores.items(), key=lambda kv: kv[1], reverse=True)},
         "indexes": {k: round(v, 2) for k, v in sorted(indexes.items(), key=lambda kv: kv[1], reverse=True)},
         "ranks": ranks,
+        "sfia": {k: list(v) for k, v in sfia.items()},
         "roles": {s: role_blurb(s) for s in SKILLS},
         "evidence": {k: v[:15] for k, v in evidence.items()},
         "repos": repo_detail,
     }
     with open(REPORT_PATH, "w", encoding="utf-8") as fh:
         json.dump(report, fh, indent=2)
-    print(json.dumps({k: report[k] for k in ("top_skill", "overall_rank", "scores", "ranks")}, indent=2))
+    print(json.dumps({k: report[k] for k in ("top_skill", "overall_rank", "scores", "ranks", "sfia")}, indent=2))
     return report
 
 
@@ -317,16 +345,23 @@ def build_readme_section(report):
     rank_style = {"S": "S-Rank (Monarch)", "A": "A-Rank (Elite)",
                   "B": "B-Rank (Veteran)", "C": "C-Rank (Skilled)",
                   "D": "D-Rank (Apprentice)", "E": "E-Rank (Novice)"}
+    sfia_meta = {1: "1 · Follow", 2: "2 · Assist", 3: "3 · Apply",
+                 4: "4 · Enable", 5: "5 · Ensure", 6: "6 · Initiate",
+                 7: "7 · Set strategy"}
     top = report["top_skill"]
     overall = report["overall_rank"]
     top_label = rank_style.get(overall, overall + "-Rank")
+    top_sfia = report["sfia"].get(top, [None, ""])
+    top_sfia_label = "SFIA L%s (%s)" % (top_sfia[0], top_sfia[1]) if top_sfia[0] else ""
 
-    rows = ["| Skill | Rank | Index |",
-            "|---|---|---|"]
+    rows = ["| Skill | Rank | Index | SFIA 8 Level |",
+            "|---|---|---|---|"]
     for skill, sc in report["scores"].items():
         rk = report["ranks"][skill]
         idx = report["indexes"].get(skill)
-        rows.append("| %s | %s | %s |" % (skill, rank_style.get(rk, rk + "-Rank"), idx))
+        sfia = report["sfia"].get(skill)
+        sfia_txt = "L%s · %s" % (sfia[0], sfia[1]) if sfia else "-"
+        rows.append("| %s | %s | %s | %s |" % (skill, rank_style.get(rk, rk + "-Rank"), idx, sfia_txt))
 
     evidence_lines = []
     top_ev = report["evidence"].get(top, [])
@@ -346,6 +381,8 @@ def build_readme_section(report):
         "",
         "> %s" % role,
         "",
+        "> **%s**" % top_sfia_label,
+        "",
         "<sub>Updated %s | %d public repos analyzed by the Shadow Army's automated scout</sub>" % (
             report["generated_at"][:10], report["analyzed_repos"]),
         "",
@@ -358,6 +395,10 @@ def build_readme_section(report):
         "**EVIDENCE — REPOS DRIVING THE %s RANK**" % top.upper(),
         "",
         "\n".join(evidence_lines),
+        "",
+        "_Ranks follow the Solo Leveling theme; SFIA 8 columns map the repo-derived index onto the ",
+        "industry-standard Skills Framework for the Information Age (levels 1-7). This is a ",
+        "portfolio-based estimation, not a formal SFIA assessment._",
     ])
 
 
