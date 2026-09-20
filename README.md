@@ -30,7 +30,7 @@
 
 > **SFIA L7 (Set strategy)**
 
-<sub>Updated 2026-09-19 | 27 public repos analyzed by the Shadow Army's automated scout</sub>
+<sub>Updated 2026-09-20 | 27 public repos analyzed by the Shadow Army's automated scout</sub>
 
 </div>
 
@@ -38,12 +38,12 @@
 
 | Skill | Rank | Index | SFIA 8 Level |
 |---|---|---|---|
-| Video / AI Media Tools | S-Rank (Monarch) | 3.2 | L7 · Set strategy |
-| Automation Engineer | A-Rank (Elite) | 1.71 | L5 · Ensure |
-| AI Engineer | A-Rank (Elite) | 1.52 | L4 · Enable |
-| Backend Developer | B-Rank (Veteran) | 1.27 | L4 · Enable |
-| Frontend Developer | B-Rank (Veteran) | 1.16 | L4 · Enable |
-| Full-Stack Developer | C-Rank (Skilled) | 0.92 | L3 · Apply |
+| Video / AI Media Tools | S-Rank (Monarch) | 3.4 | L7 · Set strategy |
+| Automation Engineer | A-Rank (Elite) | 1.88 | L5 · Ensure |
+| Frontend Developer | A-Rank (Elite) | 1.54 | L4 · Enable |
+| AI Engineer | A-Rank (Elite) | 1.53 | L4 · Enable |
+| Backend Developer | B-Rank (Veteran) | 1.48 | L4 · Enable |
+| Full-Stack Developer | B-Rank (Veteran) | 1.24 | L4 · Enable |
 | Technical Writing | D-Rank (Apprentice) | 0.46 | L2 · Assist |
 
 **EVIDENCE — REPOS DRIVING THE VIDEO / AI MEDIA TOOLS RANK**
