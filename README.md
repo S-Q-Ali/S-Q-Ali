@@ -30,7 +30,7 @@
 
 > **SFIA L7 (Set strategy)**
 
-<sub>Updated 2026-09-25 | 27 public repos analyzed by the Shadow Army's automated scout</sub>
+<sub>Updated 2026-09-26 | 27 public repos analyzed by the Shadow Army's automated scout</sub>
 
 </div>
 
@@ -39,15 +39,16 @@
 | Skill | Rank | Index | SFIA 8 Level |
 |---|---|---|---|
 | Video / AI Media Tools | S-Rank (Monarch) | 3.44 | L7 · Set strategy |
-| Automation Engineer | A-Rank (Elite) | 1.89 | L5 · Ensure |
+| Automation Engineer | A-Rank (Elite) | 1.87 | L5 · Ensure |
 | Frontend Developer | A-Rank (Elite) | 1.55 | L4 · Enable |
-| AI Engineer | A-Rank (Elite) | 1.54 | L4 · Enable |
-| Backend Developer | A-Rank (Elite) | 1.51 | L4 · Enable |
+| AI Engineer | A-Rank (Elite) | 1.52 | L4 · Enable |
+| Backend Developer | B-Rank (Veteran) | 1.49 | L4 · Enable |
 | Full-Stack Developer | B-Rank (Veteran) | 1.25 | L4 · Enable |
-| Technical Writing | D-Rank (Apprentice) | 0.48 | L2 · Assist |
+| Technical Writing | D-Rank (Apprentice) | 0.47 | L2 · Assist |
 
 **EVIDENCE — REPOS DRIVING THE VIDEO / AI MEDIA TOOLS RANK**
 
+- SnipVid
 - Mis-Clear
 - S-Q-Ali
 - Lava
@@ -55,7 +56,6 @@
 - YouTube-Creator-Tool
 - Editor-Agent
 - Auto-Captions
-- SnipVid
 
 _Ranks follow the Solo Leveling theme; SFIA 8 columns map the repo-derived index onto the 
 industry-standard Skills Framework for the Information Age (levels 1-7). This is a 
