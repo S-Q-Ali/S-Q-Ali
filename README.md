@@ -30,7 +30,7 @@
 
 > **SFIA L7 (Set strategy)**
 
-<sub>Updated 2026-10-02 | 23 public repos analyzed by the Shadow Army's automated scout</sub>
+<sub>Updated 2026-10-03 | 23 public repos analyzed by the Shadow Army's automated scout</sub>
 
 </div>
 
@@ -49,8 +49,8 @@
 **EVIDENCE — REPOS DRIVING THE VIDEO / AI MEDIA TOOLS RANK**
 
 - Portfolio
-- YouTube-Creator-Tool
 - S-Q-Ali
+- YouTube-Creator-Tool
 - SnipVid
 - Mis-Clear
 - Lava
