@@ -30,7 +30,7 @@
 
 > **SFIA L7 (Set strategy)**
 
-<sub>Updated 2026-10-20 | 24 public repos analyzed by the Shadow Army's automated scout</sub>
+<sub>Updated 2026-10-21 | 24 public repos analyzed by the Shadow Army's automated scout</sub>
 
 </div>
 
@@ -48,6 +48,7 @@
 
 **EVIDENCE — REPOS DRIVING THE VIDEO / AI MEDIA TOOLS RANK**
 
+- S-Q-Creator-Studio
 - S-Q-Ali
 - Portfolio
 - flowpost-studio
@@ -55,7 +56,6 @@
 - SnipVid
 - Mis-Clear
 - Lava
-- S-Q-Creator-Studio
 
 _Ranks follow the Solo Leveling theme; SFIA 8 columns map the repo-derived index onto the 
 industry-standard Skills Framework for the Information Age (levels 1-7). This is a 
