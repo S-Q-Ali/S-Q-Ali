@@ -30,7 +30,7 @@
 
 > **SFIA L7 (Set strategy)**
 
-<sub>Updated 2026-10-31 | 24 public repos analyzed by the Shadow Army's automated scout</sub>
+<sub>Updated 2026-11-01 | 25 public repos analyzed by the Shadow Army's automated scout</sub>
 
 </div>
 
@@ -38,24 +38,24 @@
 
 | Skill | Rank | Index | SFIA 8 Level |
 |---|---|---|---|
-| Video / AI Media Tools | S-Rank (Monarch) | 5.82 | L7 · Set strategy |
-| Automation Engineer | S-Rank (Monarch) | 2.66 | L6 · Initiate |
-| Frontend Developer | S-Rank (Monarch) | 2.53 | L6 · Initiate |
-| AI Engineer | S-Rank (Monarch) | 2.38 | L6 · Initiate |
-| Backend Developer | S-Rank (Monarch) | 2.32 | L6 · Initiate |
-| Full-Stack Developer | A-Rank (Elite) | 1.61 | L5 · Ensure |
+| Video / AI Media Tools | S-Rank (Monarch) | 6.59 | L7 · Set strategy |
+| Automation Engineer | S-Rank (Monarch) | 2.67 | L6 · Initiate |
+| AI Engineer | S-Rank (Monarch) | 2.51 | L6 · Initiate |
+| Frontend Developer | S-Rank (Monarch) | 2.49 | L6 · Initiate |
+| Backend Developer | S-Rank (Monarch) | 2.27 | L6 · Initiate |
+| Full-Stack Developer | A-Rank (Elite) | 1.6 | L4 · Enable |
 | Technical Writing | C-Rank (Skilled) | 0.69 | L3 · Apply |
 
 **EVIDENCE — REPOS DRIVING THE VIDEO / AI MEDIA TOOLS RANK**
 
+- Easy-Window
 - flowpost-studio
-- S-Q-Creator-Studio
 - S-Q-Ali
+- S-Q-Creator-Studio
 - Portfolio
 - YouTube-Creator-Tool
 - SnipVid
 - Mis-Clear
-- Lava
 
 _Ranks follow the Solo Leveling theme; SFIA 8 columns map the repo-derived index onto the 
 industry-standard Skills Framework for the Information Age (levels 1-7). This is a 
