@@ -30,7 +30,7 @@
 
 > **SFIA L7 (Set strategy)**
 
-<sub>Updated 2026-11-04 | 25 public repos analyzed by the Shadow Army's automated scout</sub>
+<sub>Updated 2026-11-05 | 25 public repos analyzed by the Shadow Army's automated scout</sub>
 
 </div>
 
@@ -38,18 +38,18 @@
 
 | Skill | Rank | Index | SFIA 8 Level |
 |---|---|---|---|
-| Video / AI Media Tools | S-Rank (Monarch) | 6.61 | L7 · Set strategy |
-| Automation Engineer | S-Rank (Monarch) | 2.73 | L6 · Initiate |
-| AI Engineer | S-Rank (Monarch) | 2.61 | L6 · Initiate |
+| Video / AI Media Tools | S-Rank (Monarch) | 6.52 | L7 · Set strategy |
+| Automation Engineer | S-Rank (Monarch) | 2.68 | L6 · Initiate |
+| AI Engineer | S-Rank (Monarch) | 2.58 | L6 · Initiate |
 | Frontend Developer | S-Rank (Monarch) | 2.5 | L6 · Initiate |
-| Backend Developer | S-Rank (Monarch) | 2.31 | L6 · Initiate |
-| Full-Stack Developer | A-Rank (Elite) | 1.59 | L4 · Enable |
+| Backend Developer | S-Rank (Monarch) | 2.34 | L6 · Initiate |
+| Full-Stack Developer | A-Rank (Elite) | 1.58 | L4 · Enable |
 | Technical Writing | C-Rank (Skilled) | 0.7 | L3 · Apply |
 
 **EVIDENCE — REPOS DRIVING THE VIDEO / AI MEDIA TOOLS RANK**
 
-- S-Q-Creator-Studio
 - flowpost-studio
+- S-Q-Creator-Studio
 - S-Q-Ali
 - Easy-Window
 - Portfolio
