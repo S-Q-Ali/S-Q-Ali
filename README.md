@@ -30,7 +30,7 @@
 
 > **SFIA L7 (Set strategy)**
 
-<sub>Updated 2026-11-06 | 25 public repos analyzed by the Shadow Army's automated scout</sub>
+<sub>Updated 2026-11-07 | 25 public repos analyzed by the Shadow Army's automated scout</sub>
 
 </div>
 
@@ -48,8 +48,8 @@
 
 **EVIDENCE — REPOS DRIVING THE VIDEO / AI MEDIA TOOLS RANK**
 
-- flowpost-studio
 - S-Q-Creator-Studio
+- flowpost-studio
 - S-Q-Ali
 - Easy-Window
 - Portfolio
