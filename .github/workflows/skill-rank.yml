@@ -21,11 +21,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Analyze skills and update README
+      - name: Analyze skills, generate Solo Leveling SVG HUDs, and update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: S-Q-Ali
         run: python scripts/analyze.py
+
+      - name: Verify SVG XML validity and README quality gates
+        run: python -m unittest discover -s tests -v
 
       - name: Commit and push changes
         env:
@@ -34,10 +37,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git add README.md skill-report.json
+          git add README.md skill-report.json assets/*.svg
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: auto-update skill ranks"
+            git commit -m "chore: auto-update Solo Leveling skill ranks and SVG HUDs"
             git push
           fi

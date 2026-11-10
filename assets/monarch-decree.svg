@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="100%" height="100%">
+  
+  <defs>
+    <linearGradient id="bgVoid" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060C"/>
+      <stop offset="50%" stop-color="#090D1A"/>
+      <stop offset="100%" stop-color="#050711"/>
+    </linearGradient>
+    <linearGradient id="panelBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0D1428" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#070B16" stop-opacity="0.96"/>
+    </linearGradient>
+    <linearGradient id="cyanViolet" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="55%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="violetCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9D4EDD"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FDE047"/>
+    </linearGradient>
+    <linearGradient id="radarFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#9D4EDD" stop-opacity="0.48"/>
+    </linearGradient>
+    <radialGradient id="monarchAura" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.32"/>
+      <stop offset="55%" stop-color="#00E5FF" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#05070E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="sysGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.45"/>
+    </pattern>
+    <filter id="glowCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-15%" y="-15%" width="130%" height="130%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .sys-mono { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; }
+      .sys-sans { font-family: 'Segoe UI', 'Inter', 'Roboto', Helvetica, Arial, sans-serif; }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.85; }
+        50% { opacity: 1; }
+      }
+      @keyframes scanline {
+        0% { transform: translateY(0px); opacity: 0.0; }
+        15% { opacity: 0.35; }
+        85% { opacity: 0.35; }
+        100% { transform: translateY(320px); opacity: 0.0; }
+      }
+      @keyframes floatParticle {
+        0% { transform: translateY(0px); opacity: 0.15; }
+        50% { opacity: 0.75; }
+        100% { transform: translateY(-45px); opacity: 0.0; }
+      }
+      @keyframes blinkAlert {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.35; }
+      }
+      .pulse { animation: pulseGlow 3s ease-in-out infinite; }
+      .blink { animation: blinkAlert 2.2s ease-in-out infinite; }
+      .p1 { animation: floatParticle 4.2s ease-in-out infinite; }
+      .p2 { animation: floatParticle 5.5s ease-in-out 1.2s infinite; }
+      .p3 { animation: floatParticle 3.8s ease-in-out 2.1s infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="190" rx="14" fill="url(#bgVoid)"/>
+  <rect width="1200" height="190" rx="14" fill="url(#sysGrid)"/>
+  <circle cx="600" cy="95" r="260" fill="url(#monarchAura)"/>
+
+  
+  <polygon points="30,16 1170,16 1184,30 1184,160 1170,174 30,174 16,160 16,30" fill="url(#panelBg)" stroke="#9D4EDD" stroke-width="1.2" stroke-opacity="0.55"/>
+  <polyline points="16,56 16,30 30,16 56,16" fill="none" stroke="#9D4EDD" stroke-width="2.6" filter="url(#glowSoft)"/>
+  <polyline points="1144,16 1170,16 1184,30 1184,56" fill="none" stroke="#00E5FF" stroke-width="2.6" filter="url(#glowSoft)"/>
+  <polyline points="16,134 16,160 30,174 56,174" fill="none" stroke="#00E5FF" stroke-width="2.6" filter="url(#glowSoft)"/>
+  <polyline points="1144,174 1170,174 1184,160 1184,134" fill="none" stroke="#9D4EDD" stroke-width="2.6" filter="url(#glowSoft)"/>
+
+
+  <text x="600" y="58" text-anchor="middle" fill="#00E5FF" font-size="12" font-weight="800" letter-spacing="4" class="sys-mono">
+    [ SOVEREIGN DECREE // SHADOW EXTRACTION PROTOCOL ]
+  </text>
+
+  <text x="600" y="104" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="900" letter-spacing="4" class="sys-sans" filter="url(#glowSoft)">
+    “I ALONE LEVEL UP — SO DOES EVERY LINE OF MY CODE.”
+  </text>
+
+  <text x="600" y="138" text-anchor="middle" fill="#C084FC" font-size="13" font-weight="700" letter-spacing="3" class="sys-mono">
+    ⚔️ SYED QASIM ALI (S-Q-ALI) • ARISE FROM THE SHADOWS • PAKISTAN 🇵🇰 ⚔️
+  </text>
+</svg>

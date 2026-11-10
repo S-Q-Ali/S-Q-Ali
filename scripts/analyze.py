@@ -18,6 +18,8 @@ import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 
+import svg_hud
+
 USER = os.environ.get("GITHUB_USER", "S-Q-Ali")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 API = "https://api.github.com"
@@ -345,60 +347,56 @@ def build_readme_section(report):
     rank_style = {"S": "S-Rank (Monarch)", "A": "A-Rank (Elite)",
                   "B": "B-Rank (Veteran)", "C": "C-Rank (Skilled)",
                   "D": "D-Rank (Apprentice)", "E": "E-Rank (Novice)"}
-    sfia_meta = {1: "1 · Follow", 2: "2 · Assist", 3: "3 · Apply",
-                 4: "4 · Enable", 5: "5 · Ensure", 6: "6 · Initiate",
-                 7: "7 · Set strategy"}
     top = report["top_skill"]
     overall = report["overall_rank"]
     top_label = rank_style.get(overall, overall + "-Rank")
     top_sfia = report["sfia"].get(top, [None, ""])
     top_sfia_label = "SFIA L%s (%s)" % (top_sfia[0], top_sfia[1]) if top_sfia[0] else ""
+    user = report.get("username", USER)
 
-    rows = ["| Skill | Rank | Index | SFIA 8 Level |",
-            "|---|---|---|---|"]
+    rows = ["| Discipline | Hunter Rank | Resonance Index | SFIA 8 Responsibility |",
+            "|:---|:---:|:---:|:---|"]
     for skill, sc in report["scores"].items():
         rk = report["ranks"][skill]
         idx = report["indexes"].get(skill)
         sfia = report["sfia"].get(skill)
         sfia_txt = "L%s · %s" % (sfia[0], sfia[1]) if sfia else "-"
-        rows.append("| %s | %s | %s | %s |" % (skill, rank_style.get(rk, rk + "-Rank"), idx, sfia_txt))
+        rows.append("| **%s** | `%s` | `%s` | **%s** |" % (
+            skill, rank_style.get(rk, rk + "-Rank"), idx, sfia_txt))
 
-    evidence_lines = []
+    evidence_links = []
     top_ev = report["evidence"].get(top, [])
     for r in top_ev[:8]:
-        evidence_lines.append("- %s" % r)
-    if not evidence_lines:
-        evidence_lines.append("_No direct matches yet._")
+        evidence_links.append("[`%s`](https://github.com/%s/%s)" % (r, user, r))
+    evidence_line = " · ".join(evidence_links) if evidence_links else "_No direct matches yet._"
 
     role = report["roles"].get(top, "")
 
     return "\n".join([
         "<div align=\"center\">",
         "",
-        "### ⚔️ **HUNTER RANK: %s** ⚔️" % top_label,
+        "<img src=\"assets/status-window.svg\" width=\"100%\" alt=\"Solo Leveling Hunter Status Window &amp; 7-Axis Skill Radar\"/>",
         "",
-        "**Primary Discipline: %s**" % top,
-        "",
-        "> %s" % role,
-        "",
-        "> **%s**" % top_sfia_label,
-        "",
-        "<sub>Updated %s | %d public repos analyzed by the Shadow Army's automated scout</sub>" % (
-            report["generated_at"][:10], report["analyzed_repos"]),
+        "<sub>⚡ <b>SYSTEM TELEMETRY:</b> Hunter Rank <b>%s</b> in <b>%s</b> (%s) — Updated %s across %d public dungeons</sub>" % (
+            top_label, top, top_sfia_label, report["generated_at"][:10], report["analyzed_repos"]),
         "",
         "</div>",
         "",
-        "**SKILL INVENTORY RANKS**",
+        "<details>",
+        "<summary><b>📂 [ SYSTEM LOG ] EXPAND DETAILED SFIA 8 SKILL INVENTORY &amp; EVIDENCE MATRIX</b></summary>",
+        "<br/>",
+        "",
+        "> **Primary Class:** %s  " % role,
+        "> **Authority Level:** **%s** — **%s**" % (top_label, top_sfia_label),
         "",
         "\n".join(rows),
         "",
-        "**EVIDENCE — REPOS DRIVING THE %s RANK**" % top.upper(),
+        "**🗡️ S-Rank Evidence Dungeons (%s):**  " % top,
+        "%s" % evidence_line,
         "",
-        "\n".join(evidence_lines),
+        "<sub>_Ranks follow the Solo Leveling System hierarchy; SFIA 8 columns map the repository-derived index onto the industry-standard Skills Framework for the Information Age (levels 1–7)._</sub>",
         "",
-        "_Ranks follow the Solo Leveling theme; SFIA 8 columns map the repo-derived index onto the ",
-        "industry-standard Skills Framework for the Information Age (levels 1-7). This is a ",
-        "portfolio-based estimation, not a formal SFIA assessment._",
+        "</details>",
     ])
 
 
@@ -423,7 +421,14 @@ def update_readme(report):
 
 
 def main():
-    report = analyze()
+    if "--from-report" in sys.argv and os.path.exists(REPORT_PATH):
+        with open(REPORT_PATH, "r", encoding="utf-8") as fh:
+            report = json.load(fh)
+        print("Loaded existing report from %s" % REPORT_PATH)
+    else:
+        report = analyze()
+    svg_files = svg_hud.generate_all_svgs(report)
+    print("Generated SVGs: %s" % ", ".join(svg_files))
     update_readme(report)
     print("Report written to %s" % REPORT_PATH)
 

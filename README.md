@@ -1,240 +1,222 @@
 <div align="center">
 
-<!-- Animated Title Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SUNG%20QASIM%20ALI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Shadow%20Monarch%20of%20AI%20Full%20Stack%20Development&descAlignY=51&descAlign=50"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     [ ! ] SOLO LEVELING SYSTEM HUD — HERO AWAKENING BANNER
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="assets/system-header.svg" width="100%" alt="Syed Qasim Ali — Shadow Monarch System Awakening Banner"/>
 
-</div>
+<br/>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=ARISE!+Frontend+Developer;Associate+Software+Developer;Leveling+Up+One+Commit+at+a+Time;From+E-Rank+to+SSS-Rank+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=38&lines=%5B+!+%5D+SYSTEM+ALERT%3A+S-RANK+MONARCH+DETECTED;ARISE!+Shadow+Sovereign+of+AI+%26+Video+Automation;Architecting+in+Python+%E2%80%A2+TypeScript+%E2%80%A2+Flutter+%E2%80%A2+Rust;SFIA+Level+7+(Set+Strategy)+%E2%80%94+I+Alone+Level+Up)](https://github.com/S-Q-Ali)
+
+<!-- Quick Guild & Live System Links -->
+<p align="center">
+  <a href="https://flowpost-studio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_FLOWPOST_STUDIO-LIVE_PORTAL-05070E?style=for-the-badge&labelColor=0B132B&color=00E5FF" height="32" alt="FlowPost Studio"/>
+  </a>
+  <a href="https://snip-vid.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🎬_SNIPVID_STUDIO-WEB_APP-05070E?style=for-the-badge&labelColor=0B132B&color=9D4EDD" height="32" alt="SnipVid"/>
+  </a>
+  <a href="https://github.com/S-Q-Ali/S-Q-Creator-Studio/releases" target="_blank">
+    <img src="https://img.shields.io/badge/👑_CREATOR_STUDIO-RELEASES-05070E?style=for-the-badge&labelColor=0B132B&color=F59E0B" height="32" alt="Creator Studio Releases"/>
+  </a>
+  <a href="https://linkedin.com/in/s-qasim-ali" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-GUILD_NETWORK-05070E?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0B132B&color=3B82F6" height="32" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:syedqasim963@gmail.com">
+    <img src="https://img.shields.io/badge/DIRECT_SUMMON-GMAIL-05070E?style=for-the-badge&logo=gmail&logoColor=F43F5E&labelColor=0B132B&color=7C3AED" height="32" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
 ---
-
-<div align="center">
-
-### ⚔️ **CURRENT LEVEL: ASSOCIATE SOFTWARE DEVELOPER** ⚔️
-
-</div>
 
 <!--SKILL-RANK:START-->
 <div align="center">
 
-### ⚔️ **HUNTER RANK: S-Rank (Monarch)** ⚔️
+<img src="assets/status-window.svg" width="100%" alt="Solo Leveling Hunter Status Window &amp; 7-Axis Skill Radar"/>
 
-**Primary Discipline: Video / AI Media Tools**
-
-> Video / Media Tooling Engineer — Automating video workflows and content tools.
-
-> **SFIA L7 (Set strategy)**
-
-<sub>Updated 2026-11-10 | 25 public repos analyzed by the Shadow Army's automated scout</sub>
+<sub>⚡ <b>SYSTEM TELEMETRY:</b> Hunter Rank <b>S-Rank (Monarch)</b> in <b>Video / AI Media Tools</b> (SFIA L7 (Set strategy)) — Updated 2026-11-10 across 25 public dungeons</sub>
 
 </div>
 
-**SKILL INVENTORY RANKS**
-
-| Skill | Rank | Index | SFIA 8 Level |
-|---|---|---|---|
-| Video / AI Media Tools | S-Rank (Monarch) | 6.66 | L7 · Set strategy |
-| Automation Engineer | S-Rank (Monarch) | 2.72 | L6 · Initiate |
-| Frontend Developer | S-Rank (Monarch) | 2.5 | L6 · Initiate |
-| Backend Developer | S-Rank (Monarch) | 2.34 | L6 · Initiate |
-| AI Engineer | S-Rank (Monarch) | 2.3 | L6 · Initiate |
-| Full-Stack Developer | A-Rank (Elite) | 1.58 | L4 · Enable |
-| Technical Writing | C-Rank (Skilled) | 0.7 | L3 · Apply |
-
-**EVIDENCE — REPOS DRIVING THE VIDEO / AI MEDIA TOOLS RANK**
-
-- S-Q-Creator-Studio
-- S-Q-Ali
-- flowpost-studio
-- Easy-Window
-- Portfolio
-- YouTube-Creator-Tool
-- SnipVid
-- Mis-Clear
-
-_Ranks follow the Solo Leveling theme; SFIA 8 columns map the repo-derived index onto the 
-industry-standard Skills Framework for the Information Age (levels 1-7). This is a 
-portfolio-based estimation, not a formal SFIA assessment._
-<!--SKILL-RANK:END-->
-
-```ascii
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║   "𝐉𝐮𝐬𝐭 𝐚𝐬 𝐭𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐌𝐨𝐧𝐚𝐫𝐜𝐡 𝐥𝐞𝐯𝐞𝐥𝐬 𝐮𝐩..."                          ║
-║   "𝐒𝐨 𝐝𝐨𝐞𝐬 𝐦𝐲 𝐜𝐨𝐝𝐞."                                                  ║
-║                                                    - Syed Qasim Ali   ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-## 🏆 **HUNTER'S STATS** 🏆
-
-<img src="https://github-trophies.vercel.app/?username=s-q-ali&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Trophy Stats"/>
-</div>
-
----
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 📊 **SYSTEM WINDOW: GITHUB STATS**
-
-<img src="https://github-readme-stats.vercel.app/api?username=s-q-ali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=F72585&text_color=FFFFFF&ring_color=7209B7&fire_color=F72585&include_all_commits=true&count_private=true" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-q-ali&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=F72585&fire=F72585&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=F72585&sideNums=7209B7&dates=FFFFFFAA" width="100%"/>
-
-</td>
-<td width="50%" align="center">
-
-### 🗡️ **SKILL INVENTORY**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-q-ali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&langs_count=8&exclude_repo=github-readme-stats&card_width=400" width="100%"/>
-
+<details>
+<summary><b>📂 [ SYSTEM LOG ] EXPAND DETAILED SFIA 8 SKILL INVENTORY &amp; EVIDENCE MATRIX</b></summary>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s-q-ali&theme=radical&utcOffset=5" width="100%"/>
+> **Primary Class:** Video / Media Tooling Engineer — Automating video workflows and content tools.  
+> **Authority Level:** **S-Rank (Monarch)** — **SFIA L7 (Set strategy)**
 
-</td>
-</tr>
+| Discipline | Hunter Rank | Resonance Index | SFIA 8 Responsibility |
+|:---|:---:|:---:|:---|
+| **Video / AI Media Tools** | `S-Rank (Monarch)` | `6.66` | **L7 · Set strategy** |
+| **Automation Engineer** | `S-Rank (Monarch)` | `2.72` | **L6 · Initiate** |
+| **Frontend Developer** | `S-Rank (Monarch)` | `2.5` | **L6 · Initiate** |
+| **Backend Developer** | `S-Rank (Monarch)` | `2.34` | **L6 · Initiate** |
+| **AI Engineer** | `S-Rank (Monarch)` | `2.3` | **L6 · Initiate** |
+| **Full-Stack Developer** | `A-Rank (Elite)` | `1.58` | **L4 · Enable** |
+| **Technical Writing** | `C-Rank (Skilled)` | `0.7` | **L3 · Apply** |
+
+**🗡️ S-Rank Evidence Dungeons (Video / AI Media Tools):**  
+[`S-Q-Creator-Studio`](https://github.com/S-Q-Ali/S-Q-Creator-Studio) · [`S-Q-Ali`](https://github.com/S-Q-Ali/S-Q-Ali) · [`flowpost-studio`](https://github.com/S-Q-Ali/flowpost-studio) · [`Easy-Window`](https://github.com/S-Q-Ali/Easy-Window) · [`Portfolio`](https://github.com/S-Q-Ali/Portfolio) · [`YouTube-Creator-Tool`](https://github.com/S-Q-Ali/YouTube-Creator-Tool) · [`SnipVid`](https://github.com/S-Q-Ali/SnipVid) · [`Mis-Clear`](https://github.com/S-Q-Ali/Mis-Clear)
+
+<sub>_Ranks follow the Solo Leveling System hierarchy; SFIA 8 columns map the repository-derived index onto the industry-standard Skills Framework for the Information Age (levels 1–7)._</sub>
+
+</details>
+<!--SKILL-RANK:END-->
+
+---
+
+<div align="center">
+
+## 🗡️ **『 SHADOW ARMY: S-RANK DUNGEON RAIDS 』**
+
+<img src="assets/shadow-army-raids.svg" width="100%" alt="Shadow Army S-Rank Dungeon Raids Bento Grid"/>
+
+</div>
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left">⚔️ Shadow Unit (Repository)</th>
+      <th align="center">Rank</th>
+      <th align="left">Core Mana / Stack</th>
+      <th align="left">Dungeon Objective &amp; Capabilities</th>
+      <th align="center">Portal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/S-Q-Ali/S-Q-Creator-Studio"><b>👑 S-Q-Creator-Studio</b></a></td>
+      <td align="center"><code>S-RANK</code></td>
+      <td><code>Python</code> · <code>FFmpeg</code> · <code>AI Media</code></td>
+      <td>Bulk-download TikTok/YouTube/IG/FB video &amp; audio, reframe 9:16 shorts in Vertical Studio &amp; verify accounts.</td>
+      <td align="center"><a href="https://github.com/S-Q-Ali/S-Q-Creator-Studio/releases"><b>🚀 Release</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-Q-Ali/flowpost-studio"><b>⚡ flowpost-studio</b></a></td>
+      <td align="center"><code>S-RANK</code></td>
+      <td><code>Dart</code> · <code>Flutter</code> · <code>Supabase</code></td>
+      <td>Native Windows cross-platform scheduler &amp; publisher for YouTube Shorts, TikTok, Reels, FB &amp; LinkedIn.</td>
+      <td align="center"><a href="https://flowpost-studio.vercel.app"><b>🌐 Live</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-Q-Ali/Easy-Window"><b>🛡️ Easy-Window</b></a></td>
+      <td align="center"><code>S-RANK</code></td>
+      <td><code>Rust</code> · <code>Win11 API</code> · <code>Systems</code></td>
+      <td>Windows 11 utility detecting persistent Chrome sessions &amp; background processes wasting CPU, RAM, disk or GPU.</td>
+      <td align="center"><a href="https://github.com/S-Q-Ali/Easy-Window"><b>📦 Repo</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-Q-Ali/Editor-Agent"><b>🔮 Editor-Agent</b></a></td>
+      <td align="center"><code>S-RANK</code></td>
+      <td><code>Python</code> · <code>LLM Agent</code> · <code>Video</code></td>
+      <td>Autonomous AI video editing &amp; media pipeline agent engineered for intelligent creator workflows.</td>
+      <td align="center"><a href="https://github.com/S-Q-Ali/Editor-Agent"><b>📦 Repo</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-Q-Ali/SnipVid"><b>🎬 SnipVid</b></a></td>
+      <td align="center"><code>A-RANK</code></td>
+      <td><code>TypeScript</code> · <code>React</code> · <code>Web</code></td>
+      <td>High-precision web video clipping &amp; content extraction studio for rapid short-form production.</td>
+      <td align="center"><a href="https://snip-vid.vercel.app"><b>🌐 Live</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-Q-Ali/Auto-Captions"><b>💬 Auto-Captions</b></a> &amp; <a href="https://github.com/S-Q-Ali/Vid-Automator"><b>Vid-Automator</b></a></td>
+      <td align="center"><code>A-RANK</code></td>
+      <td><code>TypeScript</code> · <code>Python</code> · <code>AI</code></td>
+      <td>Automated AI speech-to-caption rendering &amp; headless video production pipeline automation.</td>
+      <td align="center"><a href="https://github.com/S-Q-Ali/Auto-Captions"><b>📦 Repo</b></a></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
 <div align="center">
 
-## ⚡ **HUNTER'S ABILITIES** ⚡
+## ⚡ **『 MONARCH'S ARSENAL: RUNE & TECH INVENTORY 』**
 
-### 『 LEGENDARY SKILLS 』
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript"/><br/>
-<sub><b>JavaScript</b></sub><br/>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React"/><br/>
-<sub><b>React</b></sub><br/>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/><br/>
-<sub><b>Node.js</b></sub><br/>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express"/><br/>
-<sub><b>Express</b></sub><br/>
-</td> 
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/><br/>
-<sub><b>HTML5</b></sub><br/>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/><br/>
-<sub><b>CSS3</b></sub><br/>
-</td>  
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind"/><br/>
-<sub><b>Tailwind</b></sub><br/>
-</td>  
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/><br/>
-<sub><b>Git</b></sub><br/>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/><br/>
-<sub><b>GitHub</b></sub><br/>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br/>
-<sub><b>VS Code</b></sub><br/>
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h4>🗡️ Sovereign Core &amp; Systems</h4>
+      <img src="https://skillicons.dev/icons?i=py,ts,js,rust,dart,cs&theme=dark&perline=3" alt="Core Languages"/><br/>
+      <sub><b>Python • TypeScript • JS • Rust • Dart • C#</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h4>💎 Frontend &amp; Cross-Platform</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark&perline=3" alt="Frontend & Mobile"/><br/>
+      <sub><b>React • Next.js • Flutter • Tailwind • HTML5 • CSS3</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h4>🛡️ Backend, APIs &amp; Data</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,mongodb,postgres&theme=dark&perline=3" alt="Backend & Data"/><br/>
+      <sub><b>Node.js • Express • FastAPI • Supabase • Mongo • SQL</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h4>🔮 AI, Automation &amp; DevOps</h4>
+      <img src="https://skillicons.dev/icons?i=pytorch,selenium,git,githubactions,docker,vscode&theme=dark&perline=3" alt="AI & DevOps"/><br/>
+      <sub><b>AI/ML • Automation • Git • Actions • Docker • VS Code</b></sub>
+    </td>
+  </tr>
 </table>
 
----
-
-<div align="center">
-
-## 🌟 **QUEST LOG: ACTIVITY GRAPH** 🌟
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s-q-ali&theme=high-contrast&bg_color=0D1117&color=9D4EDD&line=F72585&point=FFFFFF&area=true&hide_border=true&custom_title=Shadow%20Monarch's%20Journey)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
 
 <div align="center">
 
-## 🎯 **DUNGEON RAIDS: CURRENT MISSIONS** 🎯
+## 📊 **『 SYSTEM TELEMETRY & DAILY QUEST LOG 』**
 
-```javascript
+<img src="assets/combat-telemetry.svg" width="100%" alt="Solo Leveling Daily Quest & Combat Telemetry HUD"/>
+
+<br/><br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-q-ali&theme=dark&hide_border=true&background=070B16&stroke=1E293B&ring=00E5FF&fire=9D4EDD&currStreakLabel=00E5FF&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=E2E8F0&dates=64748B" width="100%" alt="Streak Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s-q-ali&theme=2077&utcOffset=5" width="100%" alt="Productive Time"/>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🏆 [ EXPAND HUNTER HALL OF FAME ] — GITHUB TROPHY ARTIFACTS &amp; SYSTEM CODE</b></summary>
+<br/>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=s-q-ali&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Trophy Stats"/>
+</div>
+
+```typescript
+// [ SYSTEM KERNEL // SHADOW MONARCH PROTOCOL ]
 const shadowMonarch = {
-    name: "Syed Qasim Ali",
-    title: "Shadow Monarch of Code",
-    location: "Pakistan 🇵🇰",
-    rank: "SSS-Class Developer (In Progress)",
-    
-    currentQuests: [
-        "🔥 Mastering Advanced React Patterns",
-        "⚔️ Building Scalable Web Applications",
-        "🛡️ Exploring Next.js & Server Components",
-        "💎 Contributing to Open Source",
-        "🌙 Leveling Up System Design Skills"
-    ],
-    
-    dailyRoutine: function() {
-        while(alive) {
-            eat();
-            code();
-            sleep();
-            repeat();
-        }
-    },
-    
-    summonShadowArmy: function() {
-        return "ARISE! 🗡️";
-    }
+  hunter: "Syed Qasim Ali",
+  codename: "S-Q-Ali",
+  rank: "S-Rank (Monarch) // SFIA Level 7",
+  baseOfOperations: "Pakistan 🇵🇰",
+  education: "BS Computer Science — University of Central Punjab (UCP)",
+
+  activeDungeons: [
+    "🎬 Scaling AI-Powered Video & Creator Studio Ecosystems (Python / FFmpeg / LLMs)",
+    "⚡ Shipping Native Cross-Platform Creator Suites (Flutter / Dart / Supabase)",
+    "🦀 Engineering Zero-Overhead Windows 11 System Utilities (Rust)",
+    "🤖 Autonomous Multi-Agent Content & Browser Automation Pipelines"
+  ],
+
+  executeShadowExtraction(): string {
+    return "ARISE. 🗡️";
+  }
 };
 ```
 
-</div>
-
----
-
-<div align="center">
-
-## 🔮 **GUILD CONNECTIONS** 🔮
-
-### 『 Join My Party 』
-
-<a href="https://www.instagram.com/syedqasim963" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" height="40"/>
-</a>
-<a href="mailto:syedqasim963@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="40"/>
-</a>
-<a href="https://linkedin.com/in/s-qasim-ali" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="40"/>
-</a>
-<a href="https://github.com/s-q-ali" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="40"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=s-q-ali&style=for-the-badge&color=9D4EDD&label=HUNTERS+VISITED" height="40"/>
+</details>
 
 </div>
 
@@ -242,15 +224,15 @@ const shadowMonarch = {
 
 <div align="center">
 
-## 🐍 **SHADOW EXTRACTION: CONTRIBUTION SNAKE** 🐍
+## 🐍 **『 SHADOW EXTRACTION: CONTRIBUTION GRID 』**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s-q-ali/s-q-ali/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s-q-ali/s-q-ali/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s-q-ali/s-q-ali/output/github-contribution-grid-snake.svg">
+  <img alt="Shadow Army Contribution Snake" src="https://raw.githubusercontent.com/s-q-ali/s-q-ali/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-<sub>*My commits being consumed by the Shadow Army*</sub>
+<sub>*Every commit is extracted and absorbed into the Shadow Army.*</sub>
 
 </div>
 
@@ -258,43 +240,29 @@ const shadowMonarch = {
 
 <div align="center">
 
-## 💀 **MONARCH'S DECLARATION** 💀
+## 🔮 **『 GUILD CONNECTIONS // SUMMON THE MONARCH 』**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs&border=true&bg_color=0D1117&titleColor=9D4EDD&textColor=FFFFFF" width="600"/>
+<p align="center">
+  <a href="https://linkedin.com/in/s-qasim-ali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Syed_Qasim_Ali-05070E?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0B132B&color=0077B5" height="36" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:syedqasim963@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-syedqasim963@gmail.com-05070E?style=for-the-badge&logo=gmail&logoColor=F43F5E&labelColor=0B132B&color=9D4EDD" height="36" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/syedqasim963" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@syedqasim963-05070E?style=for-the-badge&logo=instagram&logoColor=C084FC&labelColor=0B132B&color=7C3AED" height="36" alt="Instagram"/>
+  </a>
+  <a href="https://flowpost-studio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Portal-flowpost--studio-05070E?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=0B132B&color=00E5FF" height="36" alt="FlowPost Studio"/>
+  </a>
+</p>
 
-### **"I ALONE LEVEL UP" 🌑
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=s-q-ali&style=for-the-badge&color=00E5FF&labelColor=0B132B&label=HUNTERS+VISITED" height="28" alt="Visitor Count"/>
+  <img src="https://img.shields.io/github/stars/s-q-ali?style=for-the-badge&logo=github&logoColor=FDE047&labelColor=0B132B&color=9D4EDD" height="28" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/s-q-ali?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0B132B&color=3B82F6" height="28" alt="GitHub Followers"/>
+</p>
 
-```ascii
-    ⚔️  Building the future, one line of code at a time  ⚔️
-    
-    💜 Open for collaboration on epic projects
-    🎯 Always ready to conquer new technical dungeons
-    🚀 Transforming ideas into legendary applications
-```
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ **LEGENDARY DROP: SUPPORT THE JOURNEY** ⭐
-
-*If you find my work valuable, consider giving a ⭐ to my repositories!*
-
-**Every star powers up my leveling system! 🌟**
-
-<img src="https://img.shields.io/github/stars/s-q-ali?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=F72585" height="30"/>
-<img src="https://img.shields.io/github/followers/s-q-ali?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=7209B7" height="30"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=ARISE!&fontSize=40&fontColor=fff&animation=twinkling"/>
-
-<sub>**🗡️ Forged in the Shadow Dungeon | Powered by Determination | Pakistan 🇵🇰**</sub>
+<img src="assets/monarch-decree.svg" width="100%" alt="I Alone Level Up — Sovereign Decree Footer"/>
 
 </div>
