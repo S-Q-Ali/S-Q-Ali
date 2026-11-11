@@ -156,13 +156,13 @@
 
     <!-- MP Bar -->
     <text x="260" y="14" fill="#C084FC" font-size="11.5" font-weight="700" letter-spacing="1.5" class="sys-mono">MP // SHADOW MANA</text>
-    <text x="515" y="14" text-anchor="end" fill="#E2E8F0" font-size="11" class="sys-mono">INFINITE (INDEX 6.66)</text>
+    <text x="515" y="14" text-anchor="end" fill="#E2E8F0" font-size="11" class="sys-mono">INFINITE (INDEX 6.85)</text>
     <rect x="260" y="21" width="255" height="9" rx="4.5" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
     <rect x="260" y="21" width="255" height="9" rx="4.5" fill="url(#violetCyan)"/>
 
     <!-- EXP Bar -->
     <text x="540" y="14" fill="#FDE047" font-size="11.5" font-weight="700" letter-spacing="1.5" class="sys-mono">EXP // DUNGEONS CLEARED</text>
-    <text x="840" y="14" text-anchor="end" fill="#FDE047" font-size="11" font-weight="700" class="sys-mono">25 REPOSITORIES [LVL. 99]</text>
+    <text x="840" y="14" text-anchor="end" fill="#FDE047" font-size="11" font-weight="700" class="sys-mono">24 REPOSITORIES [LVL. 99]</text>
     <rect x="540" y="21" width="300" height="9" rx="4.5" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
     <rect x="540" y="21" width="292" height="9" rx="4.5" fill="url(#goldGrad)"/>
   </g>
