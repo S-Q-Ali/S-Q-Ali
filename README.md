@@ -37,7 +37,7 @@
 
 <img src="assets/status-window.svg" width="100%" alt="Solo Leveling Hunter Status Window &amp; 7-Axis Skill Radar"/>
 
-<sub>⚡ <b>SYSTEM TELEMETRY:</b> Hunter Rank <b>S-Rank (Monarch)</b> in <b>Video / AI Media Tools</b> (SFIA L7 (Set strategy)) — Updated 2026-11-11 across 24 public dungeons</sub>
+<sub>⚡ <b>SYSTEM TELEMETRY:</b> Hunter Rank <b>S-Rank (Monarch)</b> in <b>Video / AI Media Tools</b> (SFIA L7 (Set strategy)) — Updated 2026-11-12 across 24 public dungeons</sub>
 
 </div>
 
@@ -59,7 +59,7 @@
 | **Technical Writing** | `C-Rank (Skilled)` | `0.75` | **L3 · Apply** |
 
 **🗡️ S-Rank Evidence Dungeons (Video / AI Media Tools):**  
-[`SnipVid`](https://github.com/S-Q-Ali/SnipVid) · [`S-Q-Creator-Studio`](https://github.com/S-Q-Ali/S-Q-Creator-Studio) · [`S-Q-Ali`](https://github.com/S-Q-Ali/S-Q-Ali) · [`flowpost-studio`](https://github.com/S-Q-Ali/flowpost-studio) · [`Easy-Window`](https://github.com/S-Q-Ali/Easy-Window) · [`Portfolio`](https://github.com/S-Q-Ali/Portfolio) · [`YouTube-Creator-Tool`](https://github.com/S-Q-Ali/YouTube-Creator-Tool) · [`Mis-Clear`](https://github.com/S-Q-Ali/Mis-Clear)
+[`S-Q-Creator-Studio`](https://github.com/S-Q-Ali/S-Q-Creator-Studio) · [`S-Q-Ali`](https://github.com/S-Q-Ali/S-Q-Ali) · [`flowpost-studio`](https://github.com/S-Q-Ali/flowpost-studio) · [`SnipVid`](https://github.com/S-Q-Ali/SnipVid) · [`Easy-Window`](https://github.com/S-Q-Ali/Easy-Window) · [`Portfolio`](https://github.com/S-Q-Ali/Portfolio) · [`YouTube-Creator-Tool`](https://github.com/S-Q-Ali/YouTube-Creator-Tool) · [`Mis-Clear`](https://github.com/S-Q-Ali/Mis-Clear)
 
 <sub>_Ranks follow the Solo Leveling System hierarchy; SFIA 8 columns map the repository-derived index onto the industry-standard Skills Framework for the Information Age (levels 1–7)._</sub>
 
