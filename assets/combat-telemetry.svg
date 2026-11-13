@@ -183,7 +183,7 @@
     <g transform="translate(812, 126)">
       <rect x="0" y="0" width="162" height="92" rx="6" fill="#0B1122" stroke="#00E5FF" stroke-width="1.2" stroke-opacity="0.7"/>
       <text x="81" y="24" text-anchor="middle" fill="#94A3B8" font-size="9.5" font-weight="700" letter-spacing="1" class="sys-mono">PEAK SKILL INDEX</text>
-      <text x="81" y="58" text-anchor="middle" fill="#00E5FF" font-size="26" font-weight="900" class="sys-mono">6.85</text>
+      <text x="81" y="58" text-anchor="middle" fill="#00E5FF" font-size="26" font-weight="900" class="sys-mono">6.57</text>
       <text x="81" y="78" text-anchor="middle" fill="#CBD5E1" font-size="9.5" font-weight="600" class="sys-mono">VIDEO / AI MEDIA</text>
     </g>
     <g transform="translate(986, 126)">
@@ -201,7 +201,7 @@
     <g transform="translate(986, 230)">
       <rect x="0" y="0" width="162" height="92" rx="6" fill="#0B1122" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.7"/>
       <text x="81" y="24" text-anchor="middle" fill="#94A3B8" font-size="9.5" font-weight="700" letter-spacing="1" class="sys-mono">PUBLIC REPOSITORIES</text>
-      <text x="81" y="58" text-anchor="middle" fill="#38BDF8" font-size="26" font-weight="900" class="sys-mono">24</text>
+      <text x="81" y="58" text-anchor="middle" fill="#38BDF8" font-size="26" font-weight="900" class="sys-mono">25</text>
       <text x="81" y="78" text-anchor="middle" fill="#CBD5E1" font-size="9.5" font-weight="600" class="sys-mono">VERIFIED TELEMETRY</text>
     </g>
 </svg>
