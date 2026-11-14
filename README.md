@@ -37,7 +37,7 @@
 
 <img src="assets/status-window.svg" width="100%" alt="Solo Leveling Hunter Status Window &amp; 7-Axis Skill Radar"/>
 
-<sub>⚡ <b>SYSTEM TELEMETRY:</b> Hunter Rank <b>S-Rank (Monarch)</b> in <b>Video / AI Media Tools</b> (SFIA L7 (Set strategy)) — Updated 2026-11-13 across 25 public dungeons</sub>
+<sub>⚡ <b>SYSTEM TELEMETRY:</b> Hunter Rank <b>S-Rank (Monarch)</b> in <b>Video / AI Media Tools</b> (SFIA L7 (Set strategy)) — Updated 2026-11-14 across 25 public dungeons</sub>
 
 </div>
 
@@ -50,16 +50,16 @@
 
 | Discipline | Hunter Rank | Resonance Index | SFIA 8 Responsibility |
 |:---|:---:|:---:|:---|
-| **Video / AI Media Tools** | `S-Rank (Monarch)` | `6.57` | **L7 · Set strategy** |
-| **Frontend Developer** | `S-Rank (Monarch)` | `2.8` | **L6 · Initiate** |
-| **Automation Engineer** | `S-Rank (Monarch)` | `2.69` | **L6 · Initiate** |
-| **AI Engineer** | `S-Rank (Monarch)` | `2.36` | **L6 · Initiate** |
-| **Backend Developer** | `S-Rank (Monarch)` | `2.32` | **L6 · Initiate** |
-| **Full-Stack Developer** | `A-Rank (Elite)` | `1.59` | **L4 · Enable** |
-| **Technical Writing** | `C-Rank (Skilled)` | `0.72` | **L3 · Apply** |
+| **Video / AI Media Tools** | `S-Rank (Monarch)` | `7.02` | **L7 · Set strategy** |
+| **Frontend Developer** | `S-Rank (Monarch)` | `3.74` | **L7 · Set strategy** |
+| **AI Engineer** | `S-Rank (Monarch)` | `2.96` | **L6 · Initiate** |
+| **Automation Engineer** | `S-Rank (Monarch)` | `2.84` | **L6 · Initiate** |
+| **Backend Developer** | `S-Rank (Monarch)` | `2.57` | **L6 · Initiate** |
+| **Full-Stack Developer** | `A-Rank (Elite)` | `1.8` | **L5 · Ensure** |
+| **Technical Writing** | `C-Rank (Skilled)` | `0.76` | **L3 · Apply** |
 
 **🗡️ S-Rank Evidence Dungeons (Video / AI Media Tools):**  
-[`S-Q-Ali`](https://github.com/S-Q-Ali/S-Q-Ali) · [`S-Q-Creator-Studio`](https://github.com/S-Q-Ali/S-Q-Creator-Studio) · [`flowpost-studio`](https://github.com/S-Q-Ali/flowpost-studio) · [`SnipVid`](https://github.com/S-Q-Ali/SnipVid) · [`Easy-Window`](https://github.com/S-Q-Ali/Easy-Window) · [`Portfolio`](https://github.com/S-Q-Ali/Portfolio) · [`YouTube-Creator-Tool`](https://github.com/S-Q-Ali/YouTube-Creator-Tool) · [`Mis-Clear`](https://github.com/S-Q-Ali/Mis-Clear)
+[`S-Q-TTS`](https://github.com/S-Q-Ali/S-Q-TTS) · [`S-Q-Ali`](https://github.com/S-Q-Ali/S-Q-Ali) · [`S-Q-Creator-Studio`](https://github.com/S-Q-Ali/S-Q-Creator-Studio) · [`flowpost-studio`](https://github.com/S-Q-Ali/flowpost-studio) · [`SnipVid`](https://github.com/S-Q-Ali/SnipVid) · [`Easy-Window`](https://github.com/S-Q-Ali/Easy-Window) · [`Portfolio`](https://github.com/S-Q-Ali/Portfolio) · [`YouTube-Creator-Tool`](https://github.com/S-Q-Ali/YouTube-Creator-Tool)
 
 <sub>_Ranks follow the Solo Leveling System hierarchy; SFIA 8 columns map the repository-derived index onto the industry-standard Skills Framework for the Information Age (levels 1–7)._</sub>
 

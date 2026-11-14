@@ -98,7 +98,7 @@
     [ STATUS WINDOW ] // HUNTER ATTRIBUTES &amp; SKILL INVENTORY
   </text>
   <text x="1144" y="58" text-anchor="end" fill="#94A3B8" font-size="11.5" font-weight="600" class="sys-mono">
-    SCOUT SYNC: 2026-11-13 • 25 REPOS ANALYZED
+    SCOUT SYNC: 2026-11-14 • 25 REPOS ANALYZED
   </text>
 
   <!-- Column 1: Player Profile & Core Stats -->
@@ -171,9 +171,9 @@
   </text>
   <polygon points="575.0,282.0 600.8,294.4 607.2,322.3 589.3,344.7 560.7,344.7 542.8,322.3 549.2,294.4" fill="none" stroke="#1E293B" stroke-width="1" stroke-opacity="0.85"/><polygon points="575.0,249.0 626.6,273.8 639.3,329.7 603.6,374.5 546.4,374.5 510.7,329.7 523.4,273.8" fill="none" stroke="#1E293B" stroke-width="1" stroke-opacity="0.85"/><polygon points="575.0,216.0 652.4,253.3 671.5,337.0 618.0,404.2 532.0,404.2 478.5,337.0 497.6,253.3" fill="none" stroke="#1E293B" stroke-width="1" stroke-opacity="0.85"/><polygon points="575.0,183.0 678.2,232.7 703.7,344.4 632.3,433.9 517.7,433.9 446.3,344.4 471.8,232.7" fill="none" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.55"/>
   <line x1="575.0" y1="315.0" x2="575.0" y2="183.0" stroke="#1E293B" stroke-width="1"/><line x1="575.0" y1="315.0" x2="678.2" y2="232.7" stroke="#1E293B" stroke-width="1"/><line x1="575.0" y1="315.0" x2="703.7" y2="344.4" stroke="#1E293B" stroke-width="1"/><line x1="575.0" y1="315.0" x2="632.3" y2="433.9" stroke="#1E293B" stroke-width="1"/><line x1="575.0" y1="315.0" x2="517.7" y2="433.9" stroke="#1E293B" stroke-width="1"/><line x1="575.0" y1="315.0" x2="446.3" y2="344.4" stroke="#1E293B" stroke-width="1"/><line x1="575.0" y1="315.0" x2="471.8" y2="232.7" stroke="#1E293B" stroke-width="1"/>
-  <polygon points="575.0,186.3 631.4,270.0 646.9,331.4 604.0,375.2 545.8,375.7 520.3,327.5 541.0,287.9" fill="url(#radarFill)" stroke="#00E5FF" stroke-width="2.4" filter="url(#glowSoft)"/>
-  <circle cx="575.0" cy="186.3" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="631.4" cy="270.0" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="646.9" cy="331.4" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="604.0" cy="375.2" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="545.8" cy="375.7" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="520.3" cy="327.5" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="541.0" cy="287.9" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/>
-  <text x="575.0" y="159.0" text-anchor="middle" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">VIDEO / AI MEDIA</text><text x="575.0" y="172.0" text-anchor="middle" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 6.57</text><text x="700.1" y="217.7" text-anchor="start" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">AUTOMATION</text><text x="700.1" y="230.7" text-anchor="start" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 2.69</text><text x="731.0" y="349.7" text-anchor="start" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">FRONTEND UI</text><text x="731.0" y="362.7" text-anchor="start" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 2.80</text><text x="644.4" y="455.6" text-anchor="start" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">BACKEND API</text><text x="644.4" y="468.6" text-anchor="start" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 2.32</text><text x="505.6" y="455.6" text-anchor="end" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">AI / AGENTS</text><text x="505.6" y="468.6" text-anchor="end" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 2.36</text><text x="419.0" y="349.7" text-anchor="end" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">FULL-STACK</text><text x="419.0" y="362.7" text-anchor="end" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 1.59</text><text x="449.9" y="217.7" text-anchor="end" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">TECH DOCS</text><text x="449.9" y="230.7" text-anchor="end" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 0.72</text>
+  <polygon points="575.0,183.0 633.1,268.6 660.3,334.5 605.6,378.4 542.0,383.6 517.3,328.2 540.5,287.5" fill="url(#radarFill)" stroke="#00E5FF" stroke-width="2.4" filter="url(#glowSoft)"/>
+  <circle cx="575.0" cy="183.0" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="633.1" cy="268.6" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="660.3" cy="334.5" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="605.6" cy="378.4" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="542.0" cy="383.6" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="517.3" cy="328.2" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/><circle cx="540.5" cy="287.5" r="4.5" fill="#00E5FF" stroke="#FFFFFF" stroke-width="1.5" filter="url(#glowSoft)"/>
+  <text x="575.0" y="159.0" text-anchor="middle" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">VIDEO / AI MEDIA</text><text x="575.0" y="172.0" text-anchor="middle" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 7.02</text><text x="700.1" y="217.7" text-anchor="start" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">AUTOMATION</text><text x="700.1" y="230.7" text-anchor="start" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 2.84</text><text x="731.0" y="349.7" text-anchor="start" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">FRONTEND UI</text><text x="731.0" y="362.7" text-anchor="start" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 3.74</text><text x="644.4" y="455.6" text-anchor="start" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">BACKEND API</text><text x="644.4" y="468.6" text-anchor="start" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 2.57</text><text x="505.6" y="455.6" text-anchor="end" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">AI / AGENTS</text><text x="505.6" y="468.6" text-anchor="end" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 2.96</text><text x="419.0" y="349.7" text-anchor="end" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">FULL-STACK</text><text x="419.0" y="362.7" text-anchor="end" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 1.80</text><text x="449.9" y="217.7" text-anchor="end" fill="#E2E8F0" font-size="10.5" font-weight="700" class="sys-mono">TECH DOCS</text><text x="449.9" y="230.7" text-anchor="end" fill="#00E5FF" font-size="9.5" class="sys-mono">IDX 0.76</text>
 
   <rect x="415" y="492" width="320" height="44" rx="6" fill="#0B1122" stroke="#1E293B" stroke-width="1"/>
   <text x="575" y="511" text-anchor="middle" fill="#E2E8F0" font-size="11" font-weight="700" class="sys-mono">
@@ -193,61 +193,61 @@
     <rect x="10" y="9" width="28" height="20" rx="4" fill="#131C38" stroke="#00E5FF" stroke-width="1.2"/>
     <text x="24" y="23" text-anchor="middle" fill="#00E5FF" font-size="12" font-weight="900" class="sys-mono">S</text>
     <text x="48" y="23" fill="#F8FAFC" font-size="13" font-weight="700" class="sys-sans">Video / AI Media Tools</text>
-    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L7 · Set strategy | 6.57</text>
+    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L7 · Set strategy | 7.02</text>
     <rect x="10" y="34" width="365" height="6" rx="3" fill="#060913"/>
-    <rect x="10" y="34" width="352" height="6" rx="3" fill="url(#cyanViolet)"/>
+    <rect x="10" y="34" width="365" height="6" rx="3" fill="url(#cyanViolet)"/>
   </g>
   <g transform="translate(780, 186)">
     <rect x="0" y="0" width="380" height="48" rx="6" fill="#0B1122" stroke="#1E293B" stroke-width="1"/>
     <rect x="10" y="9" width="28" height="20" rx="4" fill="#131C38" stroke="#00E5FF" stroke-width="1.2"/>
     <text x="24" y="23" text-anchor="middle" fill="#00E5FF" font-size="12" font-weight="900" class="sys-mono">S</text>
     <text x="48" y="23" fill="#F8FAFC" font-size="13" font-weight="700" class="sys-sans">Frontend Developer</text>
-    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L6 · Initiate | 2.80</text>
+    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L7 · Set strategy | 3.74</text>
     <rect x="10" y="34" width="365" height="6" rx="3" fill="#060913"/>
-    <rect x="10" y="34" width="150" height="6" rx="3" fill="url(#cyanViolet)"/>
+    <rect x="10" y="34" width="200" height="6" rx="3" fill="url(#cyanViolet)"/>
   </g>
   <g transform="translate(780, 246)">
     <rect x="0" y="0" width="380" height="48" rx="6" fill="#0B1122" stroke="#1E293B" stroke-width="1"/>
     <rect x="10" y="9" width="28" height="20" rx="4" fill="#131C38" stroke="#00E5FF" stroke-width="1.2"/>
     <text x="24" y="23" text-anchor="middle" fill="#00E5FF" font-size="12" font-weight="900" class="sys-mono">S</text>
-    <text x="48" y="23" fill="#F8FAFC" font-size="13" font-weight="700" class="sys-sans">Automation Engineer</text>
-    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L6 · Initiate | 2.69</text>
+    <text x="48" y="23" fill="#F8FAFC" font-size="13" font-weight="700" class="sys-sans">AI Engineer</text>
+    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L6 · Initiate | 2.96</text>
     <rect x="10" y="34" width="365" height="6" rx="3" fill="#060913"/>
-    <rect x="10" y="34" width="144" height="6" rx="3" fill="url(#cyanViolet)"/>
+    <rect x="10" y="34" width="158" height="6" rx="3" fill="url(#cyanViolet)"/>
   </g>
   <g transform="translate(780, 306)">
     <rect x="0" y="0" width="380" height="48" rx="6" fill="#0B1122" stroke="#1E293B" stroke-width="1"/>
     <rect x="10" y="9" width="28" height="20" rx="4" fill="#131C38" stroke="#00E5FF" stroke-width="1.2"/>
     <text x="24" y="23" text-anchor="middle" fill="#00E5FF" font-size="12" font-weight="900" class="sys-mono">S</text>
-    <text x="48" y="23" fill="#F8FAFC" font-size="13" font-weight="700" class="sys-sans">AI Engineer</text>
-    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L6 · Initiate | 2.36</text>
+    <text x="48" y="23" fill="#F8FAFC" font-size="13" font-weight="700" class="sys-sans">Automation Engineer</text>
+    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L6 · Initiate | 2.84</text>
     <rect x="10" y="34" width="365" height="6" rx="3" fill="#060913"/>
-    <rect x="10" y="34" width="126" height="6" rx="3" fill="url(#cyanViolet)"/>
+    <rect x="10" y="34" width="152" height="6" rx="3" fill="url(#cyanViolet)"/>
   </g>
   <g transform="translate(780, 366)">
     <rect x="0" y="0" width="380" height="48" rx="6" fill="#0B1122" stroke="#1E293B" stroke-width="1"/>
     <rect x="10" y="9" width="28" height="20" rx="4" fill="#131C38" stroke="#00E5FF" stroke-width="1.2"/>
     <text x="24" y="23" text-anchor="middle" fill="#00E5FF" font-size="12" font-weight="900" class="sys-mono">S</text>
     <text x="48" y="23" fill="#F8FAFC" font-size="13" font-weight="700" class="sys-sans">Backend Developer</text>
-    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L6 · Initiate | 2.32</text>
+    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L6 · Initiate | 2.57</text>
     <rect x="10" y="34" width="365" height="6" rx="3" fill="#060913"/>
-    <rect x="10" y="34" width="124" height="6" rx="3" fill="url(#cyanViolet)"/>
+    <rect x="10" y="34" width="137" height="6" rx="3" fill="url(#cyanViolet)"/>
   </g>
   <g transform="translate(780, 426)">
     <rect x="0" y="0" width="380" height="48" rx="6" fill="#0B1122" stroke="#1E293B" stroke-width="1"/>
     <rect x="10" y="9" width="28" height="20" rx="4" fill="#131C38" stroke="#A855F7" stroke-width="1.2"/>
     <text x="24" y="23" text-anchor="middle" fill="#A855F7" font-size="12" font-weight="900" class="sys-mono">A</text>
     <text x="48" y="23" fill="#F8FAFC" font-size="13" font-weight="700" class="sys-sans">Full-Stack Developer</text>
-    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L4 · Enable | 1.59</text>
+    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L5 · Ensure | 1.80</text>
     <rect x="10" y="34" width="365" height="6" rx="3" fill="#060913"/>
-    <rect x="10" y="34" width="85" height="6" rx="3" fill="url(#cyanViolet)"/>
+    <rect x="10" y="34" width="96" height="6" rx="3" fill="url(#cyanViolet)"/>
   </g>
   <g transform="translate(780, 486)">
     <rect x="0" y="0" width="380" height="48" rx="6" fill="#0B1122" stroke="#1E293B" stroke-width="1"/>
     <rect x="10" y="9" width="28" height="20" rx="4" fill="#131C38" stroke="#10B981" stroke-width="1.2"/>
     <text x="24" y="23" text-anchor="middle" fill="#10B981" font-size="12" font-weight="900" class="sys-mono">C</text>
     <text x="48" y="23" fill="#F8FAFC" font-size="13" font-weight="700" class="sys-sans">Technical Writing</text>
-    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L3 · Apply | 0.72</text>
+    <text x="368" y="23" text-anchor="end" fill="#94A3B8" font-size="10.5" font-weight="600" class="sys-mono">SFIA L3 · Apply | 0.76</text>
     <rect x="10" y="34" width="365" height="6" rx="3" fill="#060913"/>
     <rect x="10" y="34" width="48" height="6" rx="3" fill="url(#cyanViolet)"/>
   </g>

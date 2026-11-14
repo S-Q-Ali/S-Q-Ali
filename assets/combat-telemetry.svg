@@ -140,15 +140,15 @@
   
     <g transform="translate(432, 132)">
       <text x="0" y="14" fill="#E2E8F0" font-size="11.5" font-weight="700" class="sys-mono">Python</text>
-      <text x="336" y="14" text-anchor="end" fill="#00E5FF" font-size="11" font-weight="800" class="sys-mono">6 REPOS (30%)</text>
+      <text x="336" y="14" text-anchor="end" fill="#00E5FF" font-size="11" font-weight="800" class="sys-mono">6 REPOS (29%)</text>
       <rect x="0" y="20" width="336" height="6" rx="3" fill="#060913"/>
-      <rect x="0" y="20" width="146" height="6" rx="3" fill="#00E5FF"/>
+      <rect x="0" y="20" width="141" height="6" rx="3" fill="#00E5FF"/>
     </g>
     <g transform="translate(432, 168)">
       <text x="0" y="14" fill="#E2E8F0" font-size="11.5" font-weight="700" class="sys-mono">JavaScript</text>
-      <text x="336" y="14" text-anchor="end" fill="#FDE047" font-size="11" font-weight="800" class="sys-mono">5 REPOS (25%)</text>
+      <text x="336" y="14" text-anchor="end" fill="#FDE047" font-size="11" font-weight="800" class="sys-mono">6 REPOS (29%)</text>
       <rect x="0" y="20" width="336" height="6" rx="3" fill="#060913"/>
-      <rect x="0" y="20" width="122" height="6" rx="3" fill="#FDE047"/>
+      <rect x="0" y="20" width="141" height="6" rx="3" fill="#FDE047"/>
     </g>
     <g transform="translate(432, 204)">
       <text x="0" y="14" fill="#E2E8F0" font-size="11.5" font-weight="700" class="sys-mono">TypeScript</text>
@@ -183,7 +183,7 @@
     <g transform="translate(812, 126)">
       <rect x="0" y="0" width="162" height="92" rx="6" fill="#0B1122" stroke="#00E5FF" stroke-width="1.2" stroke-opacity="0.7"/>
       <text x="81" y="24" text-anchor="middle" fill="#94A3B8" font-size="9.5" font-weight="700" letter-spacing="1" class="sys-mono">PEAK SKILL INDEX</text>
-      <text x="81" y="58" text-anchor="middle" fill="#00E5FF" font-size="26" font-weight="900" class="sys-mono">6.57</text>
+      <text x="81" y="58" text-anchor="middle" fill="#00E5FF" font-size="26" font-weight="900" class="sys-mono">7.02</text>
       <text x="81" y="78" text-anchor="middle" fill="#CBD5E1" font-size="9.5" font-weight="600" class="sys-mono">VIDEO / AI MEDIA</text>
     </g>
     <g transform="translate(986, 126)">
