@@ -37,7 +37,7 @@
 
 <img src="assets/status-window.svg" width="100%" alt="Solo Leveling Hunter Status Window &amp; 7-Axis Skill Radar"/>
 
-<sub>⚡ <b>SYSTEM TELEMETRY:</b> Hunter Rank <b>S-Rank (Monarch)</b> in <b>Video / AI Media Tools</b> (SFIA L7 (Set strategy)) — Updated 2026-11-15 across 25 public dungeons</sub>
+<sub>⚡ <b>SYSTEM TELEMETRY:</b> Hunter Rank <b>S-Rank (Monarch)</b> in <b>Video / AI Media Tools</b> (SFIA L7 (Set strategy)) — Updated 2026-11-16 across 25 public dungeons</sub>
 
 </div>
 
@@ -50,10 +50,10 @@
 
 | Discipline | Hunter Rank | Resonance Index | SFIA 8 Responsibility |
 |:---|:---:|:---:|:---|
-| **Video / AI Media Tools** | `S-Rank (Monarch)` | `7.02` | **L7 · Set strategy** |
+| **Video / AI Media Tools** | `S-Rank (Monarch)` | `7.03` | **L7 · Set strategy** |
 | **Frontend Developer** | `S-Rank (Monarch)` | `3.74` | **L7 · Set strategy** |
 | **AI Engineer** | `S-Rank (Monarch)` | `2.96` | **L6 · Initiate** |
-| **Automation Engineer** | `S-Rank (Monarch)` | `2.84` | **L6 · Initiate** |
+| **Automation Engineer** | `S-Rank (Monarch)` | `2.85` | **L6 · Initiate** |
 | **Backend Developer** | `S-Rank (Monarch)` | `2.57` | **L6 · Initiate** |
 | **Full-Stack Developer** | `A-Rank (Elite)` | `1.8` | **L5 · Ensure** |
 | **Technical Writing** | `C-Rank (Skilled)` | `0.76` | **L3 · Apply** |

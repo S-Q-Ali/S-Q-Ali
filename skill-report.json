@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-15T06:02:27Z",
+  "generated_at": "2026-11-16T06:02:04Z",
   "username": "S-Q-Ali",
   "analyzed_repos": 25,
   "top_skill": "Video / AI Media Tools",
   "overall_rank": "S",
   "scores": {
-    "Video / AI Media Tools": 175.6,
-    "Frontend Developer": 93.43,
-    "AI Engineer": 73.93,
-    "Automation Engineer": 71.07,
-    "Backend Developer": 64.28,
-    "Full-Stack Developer": 45.06,
-    "Technical Writing": 18.99
+    "Video / AI Media Tools": 175.7,
+    "Frontend Developer": 93.53,
+    "AI Engineer": 74.08,
+    "Automation Engineer": 71.14,
+    "Backend Developer": 64.36,
+    "Full-Stack Developer": 45.12,
+    "Technical Writing": 19.03
   },
   "indexes": {
-    "Video / AI Media Tools": 7.02,
+    "Video / AI Media Tools": 7.03,
     "Frontend Developer": 3.74,
     "AI Engineer": 2.96,
-    "Automation Engineer": 2.84,
+    "Automation Engineer": 2.85,
     "Backend Developer": 2.57,
     "Full-Stack Developer": 1.8,
     "Technical Writing": 0.76
@@ -191,12 +191,12 @@
       "name": "S-Q-TTS",
       "lang": "JavaScript",
       "pushed_days": 0,
-      "AI Engineer": 6.59,
+      "AI Engineer": 6.6,
       "Frontend Developer": 10.38,
       "Backend Developer": 2.79,
       "Full-Stack Developer": 2.34,
       "Automation Engineer": 1.62,
-      "Video / AI Media Tools": 4.96,
+      "Video / AI Media Tools": 4.97,
       "Technical Writing": 0.4
     },
     {
@@ -214,7 +214,7 @@
     {
       "name": "S-Q-Creator-Studio",
       "lang": "Python",
-      "pushed_days": 4,
+      "pushed_days": 5,
       "AI Engineer": 2.65,
       "Frontend Developer": 1.57,
       "Backend Developer": 3.02,
@@ -226,7 +226,7 @@
     {
       "name": "flowpost-studio",
       "lang": "Dart",
-      "pushed_days": 1,
+      "pushed_days": 2,
       "AI Engineer": 4.28,
       "Frontend Developer": 2.47,
       "Backend Developer": 2.99,
@@ -238,7 +238,7 @@
     {
       "name": "SnipVid",
       "lang": "TypeScript",
-      "pushed_days": 4,
+      "pushed_days": 5,
       "AI Engineer": 1.6,
       "Frontend Developer": 6.78,
       "Backend Developer": 2.78,
@@ -250,7 +250,7 @@
     {
       "name": "Easy-Window",
       "lang": "Rust",
-      "pushed_days": 6,
+      "pushed_days": 0,
       "AI Engineer": 2.4,
       "Frontend Developer": 1.79,
       "Backend Developer": 1.11,
@@ -262,7 +262,7 @@
     {
       "name": "Portfolio",
       "lang": "Python",
-      "pushed_days": 28,
+      "pushed_days": 29,
       "AI Engineer": 1.72,
       "Frontend Developer": 6.95,
       "Backend Developer": 2.32,
@@ -274,7 +274,7 @@
     {
       "name": "YouTube-Creator-Tool",
       "lang": "HTML",
-      "pushed_days": 44,
+      "pushed_days": 45,
       "AI Engineer": 0.42,
       "Frontend Developer": 3.65,
       "Backend Developer": 2.94,
@@ -286,7 +286,7 @@
     {
       "name": "Mis-Clear",
       "lang": "Python",
-      "pushed_days": 50,
+      "pushed_days": 51,
       "AI Engineer": 2.96,
       "Frontend Developer": 1.01,
       "Backend Developer": 3.72,
@@ -298,7 +298,7 @@
     {
       "name": "Lava",
       "lang": "HTML",
-      "pushed_days": 54,
+      "pushed_days": 55,
       "AI Engineer": 2.2,
       "Frontend Developer": 2.52,
       "Backend Developer": 0.66,
@@ -310,7 +310,7 @@
     {
       "name": "Editor-Agent",
       "lang": "Python",
-      "pushed_days": 74,
+      "pushed_days": 75,
       "AI Engineer": 5.28,
       "Frontend Developer": 2.31,
       "Backend Developer": 2.92,
@@ -322,7 +322,7 @@
     {
       "name": "Auto-Captions",
       "lang": "TypeScript",
-      "pushed_days": 80,
+      "pushed_days": 81,
       "AI Engineer": 2.8,
       "Frontend Developer": 1.99,
       "Backend Developer": 1.19,
@@ -334,7 +334,7 @@
     {
       "name": "Vid-Automator",
       "lang": "Python",
-      "pushed_days": 87,
+      "pushed_days": 88,
       "AI Engineer": 2.78,
       "Frontend Developer": 0.4,
       "Backend Developer": 2.18,
@@ -346,7 +346,7 @@
     {
       "name": "Right-Tool",
       "lang": "C#",
-      "pushed_days": 101,
+      "pushed_days": 102,
       "AI Engineer": 0.4,
       "Frontend Developer": 0.0,
       "Backend Developer": 1.73,
@@ -358,7 +358,7 @@
     {
       "name": "VideoKit-USERGUIDE",
       "lang": null,
-      "pushed_days": 126,
+      "pushed_days": 127,
       "AI Engineer": 0.4,
       "Frontend Developer": 0.0,
       "Backend Developer": 0.4,
@@ -370,7 +370,7 @@
     {
       "name": "FlowPostStudio-User-Guide",
       "lang": null,
-      "pushed_days": 133,
+      "pushed_days": 134,
       "AI Engineer": 0.8,
       "Frontend Developer": 0.4,
       "Backend Developer": 0.8,
@@ -382,7 +382,7 @@
     {
       "name": "AutoFlow-AI-Auto-VEO-Nano-Banana",
       "lang": null,
-      "pushed_days": 145,
+      "pushed_days": 146,
       "AI Engineer": 5.6,
       "Frontend Developer": 0.0,
       "Backend Developer": 0.0,
@@ -394,7 +394,7 @@
     {
       "name": "OTP-Extractor",
       "lang": "JavaScript",
-      "pushed_days": 408,
+      "pushed_days": 409,
       "AI Engineer": 0.0,
       "Frontend Developer": 1.75,
       "Backend Developer": 0.71,
@@ -406,7 +406,7 @@
     {
       "name": "Internship-Practice-Project",
       "lang": "JavaScript",
-      "pushed_days": 456,
+      "pushed_days": 457,
       "AI Engineer": 0.0,
       "Frontend Developer": 2.0,
       "Backend Developer": 1.19,
@@ -418,7 +418,7 @@
     {
       "name": "Internship",
       "lang": "JavaScript",
-      "pushed_days": 466,
+      "pushed_days": 467,
       "AI Engineer": 0.0,
       "Frontend Developer": 1.87,
       "Backend Developer": 0.94,
@@ -430,7 +430,7 @@
     {
       "name": "Sapphire_Demo",
       "lang": null,
-      "pushed_days": 467,
+      "pushed_days": 468,
       "AI Engineer": 0.0,
       "Frontend Developer": 0.0,
       "Backend Developer": 0.0,
@@ -442,7 +442,7 @@
     {
       "name": "JS-Basics-META",
       "lang": "JavaScript",
-      "pushed_days": 470,
+      "pushed_days": 471,
       "AI Engineer": 0.0,
       "Frontend Developer": 2.0,
       "Backend Developer": 1.2,
@@ -454,7 +454,7 @@
     {
       "name": "Web-Based-Projects",
       "lang": "CSS",
-      "pushed_days": 599,
+      "pushed_days": 600,
       "AI Engineer": 0.0,
       "Frontend Developer": 1.64,
       "Backend Developer": 0.65,
@@ -466,7 +466,7 @@
     {
       "name": "Harbor_Hero_Project",
       "lang": "C#",
-      "pushed_days": 646,
+      "pushed_days": 647,
       "AI Engineer": 0.0,
       "Frontend Developer": 0.0,
       "Backend Developer": 0.68,
@@ -478,7 +478,7 @@
     {
       "name": "BuyYours-ECommerce-Website",
       "lang": "JavaScript",
-      "pushed_days": 799,
+      "pushed_days": 800,
       "AI Engineer": 0.4,
       "Frontend Developer": 4.78,
       "Backend Developer": 1.16,
