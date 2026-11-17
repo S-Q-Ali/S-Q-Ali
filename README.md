@@ -37,7 +37,7 @@
 
 <img src="assets/status-window.svg" width="100%" alt="Solo Leveling Hunter Status Window &amp; 7-Axis Skill Radar"/>
 
-<sub>⚡ <b>SYSTEM TELEMETRY:</b> Hunter Rank <b>S-Rank (Monarch)</b> in <b>Video / AI Media Tools</b> (SFIA L7 (Set strategy)) — Updated 2026-11-16 across 25 public dungeons</sub>
+<sub>⚡ <b>SYSTEM TELEMETRY:</b> Hunter Rank <b>S-Rank (Monarch)</b> in <b>Video / AI Media Tools</b> (SFIA L7 (Set strategy)) — Updated 2026-11-17 across 25 public dungeons</sub>
 
 </div>
 
@@ -54,8 +54,8 @@
 | **Frontend Developer** | `S-Rank (Monarch)` | `3.74` | **L7 · Set strategy** |
 | **AI Engineer** | `S-Rank (Monarch)` | `2.96` | **L6 · Initiate** |
 | **Automation Engineer** | `S-Rank (Monarch)` | `2.85` | **L6 · Initiate** |
-| **Backend Developer** | `S-Rank (Monarch)` | `2.57` | **L6 · Initiate** |
-| **Full-Stack Developer** | `A-Rank (Elite)` | `1.8` | **L5 · Ensure** |
+| **Backend Developer** | `S-Rank (Monarch)` | `2.58` | **L6 · Initiate** |
+| **Full-Stack Developer** | `A-Rank (Elite)` | `1.81` | **L5 · Ensure** |
 | **Technical Writing** | `C-Rank (Skilled)` | `0.76` | **L3 · Apply** |
 
 **🗡️ S-Rank Evidence Dungeons (Video / AI Media Tools):**  
